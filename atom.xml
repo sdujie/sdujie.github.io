@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-25T06:59:57.272Z</updated>
+  <updated>2022-04-25T08:48:19.541Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>山东大学 自动控制原理实验1、2</title>
+    <link href="http://example.com/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6-%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C1%E3%80%812/"/>
+    <id>http://example.com/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6-%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C1%E3%80%812/</id>
+    <published>2022-04-25T08:29:04.000Z</published>
+    <updated>2022-04-25T08:48:19.541Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="实验一"><a href="#实验一" class="headerlink" title="实验一"></a>实验一</h2><p><em>阅读书：1-5节，学习MATLAB的相关知识及应用</em></p><h2 id="实验二运用MATLAB完成传递函数的表示与求解"><a href="#实验二运用MATLAB完成传递函数的表示与求解" class="headerlink" title="实验二运用MATLAB完成传递函数的表示与求解"></a>实验二<strong>运用MATLAB完成传递函数的表示与求解</strong></h2><p><em>阅读书：2-5节（用printsys或simplify（G）函数显示必要的结果）</em></p><h4 id="一实验内容"><a href="#一实验内容" class="headerlink" title="一实验内容"></a>一实验内容</h4><p>自行设计并画出一个包含串联、并联、局部反馈以及主反馈的自动控制系统结构图，设定每个环节的传递函数（至少要包括除延迟环节之外的5种基本环节），并编程实现结构图总传递函数的表示和求解（要求有引出点移动或比较点移动等效）</p><h4 id="实验要求"><a href="#实验要求" class="headerlink" title="实验要求"></a>实验要求</h4><p>针对实验内容得到的传递函数</p><ol><li>写出多项式形式或零极点函数</li><li>完成多项式形式与零极点形式的相互转换</li></ol><h4 id="实验步骤"><a href="#实验步骤" class="headerlink" title="实验步骤"></a>实验步骤</h4><h5 id="1-设计结构框图"><a href="#1-设计结构框图" class="headerlink" title="1.设计结构框图"></a>1.设计结构框图</h5><p><img src="https://s2.loli.net/2022/04/25/hAe1G9jVsXNuMnF.png" alt="1frame.png"></p><h5 id="2-结构框图可行性分析"><a href="#2-结构框图可行性分析" class="headerlink" title="2.结构框图可行性分析"></a><strong>2.结构框图可行性分析</strong></h5><h6 id="1-基本结构分析"><a href="#1-基本结构分析" class="headerlink" title="(1) 基本结构分析"></a><strong>(1)</strong> <strong>基本结构分析</strong></h6><p>G1,G2,G3构成基本的串联结构，</p><p>将上面等效化简后，与G4构成并联基本结构</p><p>H1和H2构成主反馈的部分</p><p>H1、H2、H3单独都是局部反馈</p><p>于是，该结构包含三种基本结构的四种形式，这一点是可行的。</p><h6 id="2-比较点和引出点分析"><a href="#2-比较点和引出点分析" class="headerlink" title="(2) 比较点和引出点分析"></a><strong>(2)</strong> <strong>比较点和引出点分析</strong></h6><p>等效结构图时，如果有交叉需要进行引出点或者比较点的移动，在上述结构框图中H2与下方的H3是存在交叉的，因此在结构图等效化简的时候是涉及到比较点（或者引出点）移动的，于是乎，这一点也符合题目的要求。</p><p>综合可得，经过简单的分析，该系统基本符合题目的基本要去，每个基本环节的传递函数需要后续的分析确定。</p><h5 id="3-设定传递函数"><a href="#3-设定传递函数" class="headerlink" title="3.设定传递函数"></a><strong>3.设定传递函数</strong></h5><p>常见的六种基本环节分别为比例环节、微分环节、惯性环节、积分环节、振荡环节和延迟环节。本实验中要求的是需要包含前五种基本环节。延迟环节的传递函数在课本一二章的示例中并未涉及到相关表达形式，这可能就是不涉及到这项内容的原因之一。下面是五种基本环节的传递函数形式：</p><p><img src="https://s2.loli.net/2022/04/25/P6xAcDYjB5RkEeK.png" alt="2.png"></p><p>根据上述的五种基本环节的传递函数，初步确定设计的结构框图中各个传递函数的值，如下：</p><p><img src="https://s2.loli.net/2022/04/25/2Ix3rBnL4UlW5q1.png" alt="3.png"></p><h5 id="4-分析化简结构，设计代码"><a href="#4-分析化简结构，设计代码" class="headerlink" title="4.分析化简结构，设计代码"></a><strong>4.分析化简结构，设计代码</strong></h5><h6 id="分析简化结构："><a href="#分析简化结构：" class="headerlink" title="分析简化结构："></a><strong>分析简化结构：</strong></h6><p>将的H2比较点前移到H1的比较点位置，系统结构框图如下图所示：</p><p><img src="https://s2.loli.net/2022/04/25/Tc7LXf1xPut2dJs.png" alt="4.png"></p><h6 id="编程思路"><a href="#编程思路" class="headerlink" title="编程思路"></a><strong>编程思路</strong></h6><p>(1) 计算将G1和G2串联</p><p>(2) 计算G1’与H3组成的反馈子系统 </p><p>(3) 计算G3与G4组成的并联子系统</p><p>(4) 计算G1、G2、H3与G3、G4组成的串联系统</p><p>(5) 计算1&#x2F;G1与H1组成的并联系统</p><p>(6) 计算1&#x2F;G1、H1与H2组成的串联系统</p><p>(7) 计算主网络子系统与主反馈组成的闭环系统传递函数</p><h4 id="源代码"><a href="#源代码" class="headerlink" title="源代码"></a>源代码</h4><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">G1=<span class="number">2</span>;G2=tf([<span class="number">2</span> <span class="number">0</span>],[<span class="number">1</span>]);G3=tf([<span class="number">4</span> <span class="number">1</span>],[<span class="number">1</span> <span class="number">0</span>]);</span><br><span class="line">G4=tf([<span class="number">4</span> <span class="number">1</span>],[<span class="number">1</span> <span class="number">1</span> <span class="number">1</span>]);<span class="comment">%前向的各个环节的传递函数</span></span><br><span class="line">H1=tf([<span class="number">1</span>],[<span class="number">1</span> <span class="number">0</span>]);H2=tf([<span class="number">1</span>],[<span class="number">1</span> <span class="number">2</span>]);H3=<span class="number">1</span>;<span class="comment">%反馈环节的传递函数</span></span><br><span class="line">HH=<span class="number">0.5</span>;<span class="comment">%H2比较点前移的等效子系统1/G1</span></span><br><span class="line">sys1=series(G1,G2);<span class="comment">%计算由G1和G2组成的子回路，由于比价简单的结构，加上分号，不会显示结果</span></span><br><span class="line">sys2=feedback(sys1,H3)<span class="comment">%计算G1、G2、H3组成的反馈子回路，去掉分号，在命令窗口可以观察结果准确与否，便于查错</span></span><br><span class="line">sys3=parallel(G3,G4);<span class="comment">%计算G3、G4组成的并联子系统</span></span><br><span class="line">sys4=series(sys2,sys3)<span class="comment">%计算前后子模块串联的子系统sys4</span></span><br><span class="line">SYS4=zpk(sys4)<span class="comment">%直接观察多项式比较麻烦，化成零极点描述形式，便于观察，去掉分号记得</span></span><br><span class="line">sys5=parallel(H1,HH);<span class="comment">%H1和H2比较点前移的并联结果</span></span><br><span class="line">sys6=series(sys5,H2);<span class="comment">%计算上面整个的反馈子系统的反馈部分</span></span><br><span class="line">sys=feedback(sys4,sys6)<span class="comment">%与主反馈回路构成的系统闭环传递函数，显示记得去掉分号</span></span><br><span class="line">Gzpk=zpk(sys)<span class="comment">%化成零极点描述形式，便于观察</span></span><br><span class="line">printsys(sys.num&#123;<span class="number">1</span>&#125;,sys.den&#123;<span class="number">1</span>&#125;)<span class="comment">%括号中的前项获得分子的系数，后项获得分母的系数</span></span><br><span class="line">                               <span class="comment">%也可以采用simplify（sys）输出，但是，这里输出的结果都不是最简结果</span></span><br><span class="line">                               <span class="comment">%当然也可以将上面想要输出的行的分号去掉也是可以直接输出的</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h4 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h4><p><strong>1.</strong>  <strong>Matlab仿真实验结果</strong></p><p><img src="https://s2.loli.net/2022/04/25/MXHA2sDbxBzvidq.png" alt="5.png"></p><p><img src="https://s2.loli.net/2022/04/25/zY6Qu5Rr2FkNTiW.png" alt="6.png"></p><p><strong>2.</strong>  <strong>实际计算结果</strong></p><p><img src="https://s2.loli.net/2022/04/25/sfya6QZXrH3KGet.png" alt="8.png"></p><p><strong>3.</strong>  <strong>对比结果</strong></p><p>可以发现MATLAB仿真实验结果和计算结果稍微有些出入，就是MATLAB仿真最后的结果我们可以看到是没有化简的，也就是传递函数分子分母之间的公因式并没有进行约分。约分化简后，结果保持一致。</p><h4 id="实验心得"><a href="#实验心得" class="headerlink" title="实验心得"></a>实验心得</h4><p>略</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;实验一&quot;&gt;&lt;a href=&quot;#实验一&quot; class=&quot;headerlink&quot; title=&quot;实验一&quot;&gt;&lt;/a&gt;实验一&lt;/h2&gt;&lt;p&gt;&lt;em&gt;阅读书：1-5节，学习MATLAB的相关知识及应用&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;实验二运用MATLAB完成传递函数的表</summary>
+      
+    
+    
+    
+    <category term="实验报告" scheme="http://example.com/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="自动控制原理实验" scheme="http://example.com/tags/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>Modelsim SE 10.7 使用介绍</title>

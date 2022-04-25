@@ -1,3 +1,4 @@
+http://example.com/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6-%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C1%E3%80%812/
 http://example.com/2022/04/24/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C1-%E5%8A%A0%E6%B3%95%E5%99%A8%E8%AE%BE%E8%AE%A1/
 http://example.com/2022/04/25/Modelsim-SE-%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/
 http://example.com/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/
@@ -13,4 +14,5 @@ http://example.com/link/index.html
 http://example.com/
 http://example.com/tags/FPGA%E5%AE%9E%E9%AA%8C/
 http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/
+http://example.com/tags/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/
 http://example.com/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/
