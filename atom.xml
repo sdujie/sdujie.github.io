@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-25T05:55:35.917Z</updated>
+  <updated>2022-04-25T06:59:57.272Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Modelsim SE 10.7 使用介绍</title>
+    <link href="http://example.com/2022/04/25/Modelsim-SE-%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://example.com/2022/04/25/Modelsim-SE-%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-04-25T06:32:04.000Z</published>
+    <updated>2022-04-25T06:59:57.272Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本文以仿真软件Modelsim SE 10.7 版本为例，进行介绍modelsim软件的基本使用；</p><p>软件下载，老方法   微信搜索modelsim下载即可找到相关说明贴，按照说明下载完成安装即可；</p><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>以FPGA实验的仿真为例，进行介绍</p><h6 id="首先需要在Quartus软件中生成源代码文件和激励块文件"><a href="#首先需要在Quartus软件中生成源代码文件和激励块文件" class="headerlink" title="首先需要在Quartus软件中生成源代码文件和激励块文件"></a>首先需要在Quartus软件中生成源代码文件和激励块文件</h6><p>书写的格式和内容参照相关课本资料，以m5序列码的仿真威力，生成m5.v文件和test_m5.v激励块文件（testbench）</p><h6 id="打开现在好的modelsim软件。点击左上角新建工程文件："><a href="#打开现在好的modelsim软件。点击左上角新建工程文件：" class="headerlink" title="打开现在好的modelsim软件。点击左上角新建工程文件："></a>打开现在好的modelsim软件。点击左上角新建工程文件：</h6><p><img src="https://s2.loli.net/2022/04/25/UCgOZRdGKNlqLIp.png" alt="1.png"></p><h6 id="输入工程名（随便）点击OK"><a href="#输入工程名（随便）点击OK" class="headerlink" title="输入工程名（随便）点击OK"></a>输入工程名（随便）点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/wc4bmWsZ63Vn5Sl.png" alt="2.png"></p><h6 id="在弹出来的界面选择添加文件"><a href="#在弹出来的界面选择添加文件" class="headerlink" title="在弹出来的界面选择添加文件"></a>在弹出来的界面选择添加文件</h6><p><img src="https://s2.loli.net/2022/04/25/9vazjixILAQCMYJ.png" alt="3.png"></p><h6 id="添加文件，添加完成点击OK"><a href="#添加文件，添加完成点击OK" class="headerlink" title="添加文件，添加完成点击OK"></a>添加文件，添加完成点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/uFaQ7AxVcb2hnzZ.png" alt="4.png"></p><h6 id="点击上方菜单中的compile→compile-all"><a href="#点击上方菜单中的compile→compile-all" class="headerlink" title="点击上方菜单中的compile→compile all"></a>点击上方菜单中的compile→compile all</h6><h6 id="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："><a href="#编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：" class="headerlink" title="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："></a>编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：</h6><p><img src="https://s2.loli.net/2022/04/25/Q1HhPiMZFSGunqI.png" alt="8.png"></p><h6 id="点击左下角库library"><a href="#点击左下角库library" class="headerlink" title="点击左下角库library"></a>点击左下角库library</h6><p><img src="https://s2.loli.net/2022/04/25/M8mVEg7wfCBZDsI.png" alt="9.png"></p><h6 id="在界面中选择work左侧的加号，打开工作"><a href="#在界面中选择work左侧的加号，打开工作" class="headerlink" title="在界面中选择work左侧的加号，打开工作"></a>在界面中选择work左侧的加号，打开工作</h6><p><img src="https://s2.loli.net/2022/04/25/wI3UcgKJjvWfRAq.png" alt="10.png"></p><h6 id="选择testbench文件，右键选择simulation。如下所示："><a href="#选择testbench文件，右键选择simulation。如下所示：" class="headerlink" title="选择testbench文件，右键选择simulation。如下所示："></a>选择testbench文件，右键选择simulation。如下所示：</h6><p><img src="https://s2.loli.net/2022/04/25/obNe3hKkq5iXwOF.png" alt="11.png"></p><h6 id="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："><a href="#仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：" class="headerlink" title="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："></a>仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：</h6><p><img src="https://s2.loli.net/2022/04/25/UW2rfihNvVX5M46.png" alt="12.png"></p><h6 id="此时会出现仿真界面，但是并没有波形，如下图："><a href="#此时会出现仿真界面，但是并没有波形，如下图：" class="headerlink" title="此时会出现仿真界面，但是并没有波形，如下图："></a>此时会出现仿真界面，但是并没有波形，如下图：</h6><p><img src="https://s2.loli.net/2022/04/25/fD4nvdXcs9HQkI3.png" alt="13.png"></p><h6 id="回到上一个界面，点击上放菜单中的simulate→run右run-all"><a href="#回到上一个界面，点击上放菜单中的simulate→run右run-all" class="headerlink" title="回到上一个界面，点击上放菜单中的simulate→run右run-all"></a>回到上一个界面，点击上放菜单中的simulate→run右run-all</h6><p><img src="https://s2.loli.net/2022/04/25/VsKdBIXWbUMo2wH.png" alt="14.png"></p><h6 id="再回到仿真界面，出现仿真波形，成功"><a href="#再回到仿真界面，出现仿真波形，成功" class="headerlink" title="再回到仿真界面，出现仿真波形，成功"></a>再回到仿真界面，出现仿真波形，成功</h6><p><img src="https://s2.loli.net/2022/04/25/gSD4WYJ63X95mwC.png" alt="15.png"></p><h6 id="如果想结束当前仿真，在上一个界面的simulate中点击end-simulation"><a href="#如果想结束当前仿真，在上一个界面的simulate中点击end-simulation" class="headerlink" title="如果想结束当前仿真，在上一个界面的simulate中点击end simulation"></a>如果想结束当前仿真，在上一个界面的simulate中点击end simulation</h6><p><img src="https://s2.loli.net/2022/04/25/l6VFapvdK9Z7Lrk.png" alt="16.png"></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>本文主要针对FPGA实验的仿真，进行了简单的介绍；其他基本仿真动作的使用请参照官方说明。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;本文以仿真软件Modelsim SE 10.7 版本为例，进行介绍modelsim软件的基本使用；&lt;/p&gt;
+&lt;p&gt;软件下载，老方法   		</summary>
+      
+    
+    
+    
+    
+    <category term="常用软件" scheme="http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Quartus13.1使用介绍</title>
+    <link href="http://example.com/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://example.com/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-04-25T05:57:52.000Z</published>
+    <updated>2022-04-25T06:31:37.858Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><p>微信搜索quartus相关内容可进行下载；</p><p>官网下载；</p><p>具体步骤略</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>网上的破解方式很多，就不在这里列举；</p><p>如果不想破解，本文提供一个简单的方式，无限制使用quartus软件；</p><p>quartus软件可以免费试用30天，就是利用此bug，无限试用30天–修改电脑时间至安装的30天内：</p><p>不会修改的看下图：</p><p><img src="https://s2.loli.net/2022/04/25/katEBVr4bUNDemY.png" alt="time.png"></p><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>以FPGA的实验为例，Verilog HDL语言</p><h6 id="打开工程"><a href="#打开工程" class="headerlink" title="打开工程"></a>打开工程</h6><p>修改完时间后，打开工程选择下面的选项：</p><p><img src="https://s2.loli.net/2022/04/25/YZJfDpN1mOdoyTV.png" alt="using.png"></p><h6 id="新建工程"><a href="#新建工程" class="headerlink" title="新建工程"></a>新建工程</h6><p><img src="https://s2.loli.net/2022/04/25/Q8coKGnl9dNxTrM.png" alt="step1.png"></p><p>工程路径不要有中文</p><p>工程项目名和module名保持一致（test仅是测试用）</p><p><img src="https://s2.loli.net/2022/04/25/iNW5dMl78OE6UAQ.png" alt="step2.png"></p><h6 id="新建文件"><a href="#新建文件" class="headerlink" title="新建文件"></a>新建文件</h6><p>这里选择Verilog语言</p><p><img src="https://s2.loli.net/2022/04/25/srHP4TWNV1wAeJ3.png" alt="step3.png"></p><h6 id="编辑源代码"><a href="#编辑源代码" class="headerlink" title="编辑源代码"></a>编辑源代码</h6><p>保存文件名和module名保持一致，例 m5.v</p><p><img src="https://s2.loli.net/2022/04/25/AJXZoPUrw2xVtMz.png" alt="s4.png"></p><h6 id="启动仿真"><a href="#启动仿真" class="headerlink" title="启动仿真"></a>启动仿真</h6><p>包含编译操作，如果有误会报错</p><p><img src="https://s2.loli.net/2022/04/25/dpo2Fg1ce37XMbk.png" alt="s5.png"></p><p>编译成功的界面：</p><p><img src="https://s2.loli.net/2022/04/25/qLIYDemKJl6Bfb5.png" alt="s6.png"></p><h6 id="仿真"><a href="#仿真" class="headerlink" title="仿真"></a>仿真</h6><p>quartus提供了简单的时序仿真分析，具体步骤见下：</p><p>新建文件，选择VWF</p><p><img src="https://s2.loli.net/2022/04/25/H5JgYOufZ6abXew.png" alt="s7VWF.png"></p><p>新建完成后出现如下界面：</p><p><img src="https://s2.loli.net/2022/04/25/wN4EZrb3TjSQ9en.png" alt="s8.png"></p><p>双击左侧空白区域，添加引脚：</p><p><img src="https://s2.loli.net/2022/04/25/JXhdWGb5O1iQkwp.png" alt="s9.png"></p><p>点击Node Finder…</p><p><img src="https://s2.loli.net/2022/04/25/Vs7Fd9CNTjy6b84.png" alt="s10.png"></p><p>点击List</p><p><img src="https://s2.loli.net/2022/04/25/Sgx8uhPd1BEC45s.png" alt="s11.png"></p><p>将引脚全部移动到右侧</p><p><img src="https://s2.loli.net/2022/04/25/ycdpPxkuDTaStXA.png" alt="s10wave.png"></p><p>点击左侧引脚，然后点击上方提供的时序输入，具体就不再介绍</p><p><img src="https://s2.loli.net/2022/04/25/qRxp47uePCDVOQb.png" alt="s11start.png"></p><p>点击开始仿真，出现如下界面：</p><p><img src="https://s2.loli.net/2022/04/25/iVOEKlRqptZGHh5.png" alt="s12.png"></p><p>加载结束后，出现仿真结果</p><p><img src="https://s2.loli.net/2022/04/25/437PGtoMSNc1fDp.png" alt="s13.png"></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>Quartus软件自带的仿真工具使用简单，由于简单单一，往往没有我们需要的输入时序波形，很多情况下并不适合我们的工程仿真使用；</p><p>真正可以做到任何条件的仿真，还得使用Modelsim仿真软件。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;安装步骤&quot;&gt;&lt;a href=&quot;#安装步骤&quot; class=&quot;headerlink&quot; title=&quot;安装步骤&quot;&gt;&lt;/a&gt;安装步骤&lt;/h2&gt;&lt;p&gt;微信搜索quartus相关内容可进行下载；&lt;/p&gt;
+&lt;p&gt;官网下载；&lt;/p&gt;
+&lt;p&gt;具体步骤略&lt;/p&gt;
+&lt;h2 id=&quot;简介</summary>
+      
+    
+    
+    
+    
+    <category term="常用软件" scheme="http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>山东大学FPGA实验4 有限状态机设计</title>
