@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/04/24/hello-world/</loc>
+    <loc>http://example.com/2022/04/24/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C1-%E5%8A%A0%E6%B3%95%E5%99%A8%E8%AE%BE%E8%AE%A1/</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2022-04-25</lastmod>
     
@@ -55,15 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://example.com/2022/04/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</loc>
-    
-    <lastmod>2022-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -72,6 +72,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://example.com/tags/FPGA%E5%AE%9E%E9%AA%8C/</loc>
+    <lastmod>2022-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
