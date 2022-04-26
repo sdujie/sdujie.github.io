@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-25T09:12:41.106Z</updated>
+  <updated>2022-04-26T00:57:16.897Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用软件推荐</title>
+    <link href="http://example.com/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>http://example.com/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
+    <published>2022-04-26T00:38:47.000Z</published>
+    <updated>2022-04-26T00:57:16.897Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="常用软件推荐"><a href="#常用软件推荐" class="headerlink" title="常用软件推荐"></a>常用软件推荐</h1><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>推荐<a href="https://pan.baidu.com/s/14Mq7d6QOlrLyxigzIt-BXg?pwd=m7tx">冰点文库</a></p><p>提取码：m7tx</p><p>使用教程：百度网盘提取链接保存，下载即可使用</p><p>复制链接，一键免费下载</p><h2 id="IDM下载器"><a href="#IDM下载器" class="headerlink" title="IDM下载器"></a>IDM下载器</h2><p>官方下载链接：</p><p><a href="http://ys-f.ysepan.com/549340427/713028443/SIuLRKu75275M326WNGJe0/idman640build11.exe">IDM官方版</a></p><p>适配win11版本<a href="http://ys-e.ysepan.com/549340455/712985354/VFtMVLr7435652GKJN5784/idman640build1.exe">IDM</a></p><p>破解方式：重置试用</p><p>仅需删除注册表信息即可重复试用30天，之后重复操作即可。</p><p>直接下载<a href="https://musetransfer.com/s/tbvsynzkd">reset.reg</a>，退出正在运行的IDM，运行reset.reg文件清除IDM注册表。</p><h2 id="免费开源视频剪辑软件-OpenShot"><a href="#免费开源视频剪辑软件-OpenShot" class="headerlink" title="免费开源视频剪辑软件 OpenShot"></a>免费开源视频剪辑软件 OpenShot</h2><p>OpenShot 创建于 2008 年，是一个免费开源的视频编辑器。可在 Linux，Mac 和 Windows 上使用。界面操作对新手比较友好。</p><p><a href="https://www.openshot.org/zh-hans/download/"> 官网下载</a></p><p>文件来自 OpenShot 官网，仅做加速下载分发用途</p><h2 id="格式工厂-Format-Factory"><a href="#格式工厂-Format-Factory" class="headerlink" title="格式工厂 (Format Factory)"></a>格式工厂 (Format Factory)</h2><p>格式工厂 (Format Factory) 是老牌知名免费音视频 &#x2F; 压缩转换软件。</p><p>从 2007 年开始格式工厂一直更新保持更新，始终免费，转换、压缩 媒体文件用格式工厂很简单。</p><h3 id="格式工厂精简优化版"><a href="#格式工厂精简优化版" class="headerlink" title="格式工厂精简优化版"></a>格式工厂精简优化版</h3><p><a href="https://www.aliyundrive.com/s/8bdfdJQTWNC">https://www.aliyundrive.com/s/8bdfdJQTWNC</a><br><a href="https://www.lanzoup.com/b00ta661i">https://www.lanzoup.com/b00ta661i</a></p><p>格式工厂精简优化版 Windows ，包含经典版 &#x2F; 稳定版 &#x2F; 最新版，精简了多余功能去除了广告。</p><h3 id="格式工厂安卓版"><a href="#格式工厂安卓版" class="headerlink" title="格式工厂安卓版"></a>格式工厂安卓版</h3><p>格式工厂更新了安卓版本，可使用下方免费无限制版本</p><p><a href="https://musetransfer.com/s/oqzn5owqp">https://musetransfer.com/s/oqzn5owqp</a></p><p>格式工厂安卓无限制版，移除了付费功能，所有功能无限制使用。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;常用软件推荐&quot;&gt;&lt;a href=&quot;#常用软件推荐&quot; class=&quot;headerlink&quot; title=&quot;常用软件推荐&quot;&gt;&lt;/a&gt;常用软件推荐&lt;/h1&gt;&lt;h2 id=&quot;百度文库下载&quot;&gt;&lt;a href=&quot;#百度文库下载&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    <category term="软件工具" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>山东大学 自动控制原理实验3</title>
