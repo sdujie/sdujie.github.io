@@ -1,3 +1,4 @@
+http://example.com/messageboard/index.html
 http://example.com/2022/04/26/23%E8%80%83%E7%A0%94PDF%E8%AF%BE%E6%9C%AC/
 http://example.com/2022/04/26/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E6%9E%81%E9%80%9F%E6%90%9C%E7%B4%A2/
 http://example.com/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/
