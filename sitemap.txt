@@ -17,11 +17,11 @@ http://example.com/categories/index.html
 http://example.com/picture/index.html
 http://example.com/link/index.html
 http://example.com/
+http://example.com/tags/%E8%80%83%E7%A0%94/
 http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/
 http://example.com/tags/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/
 http://example.com/tags/FPGA%E5%AE%9E%E9%AA%8C/
 http://example.com/tags/%E5%B7%A5%E5%85%B7/
-http://example.com/tags/%E8%80%83%E7%A0%94/
+http://example.com/categories/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/
 http://example.com/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/
 http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/
-http://example.com/categories/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/
