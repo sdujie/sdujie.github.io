@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-26T00:57:16.897Z</updated>
+  <updated>2022-04-26T01:06:38.889Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件推荐-电脑文件极速搜索</title>
+    <link href="http://example.com/2022/04/26/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E6%9E%81%E9%80%9F%E6%90%9C%E7%B4%A2/"/>
+    <id>http://example.com/2022/04/26/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E6%9E%81%E9%80%9F%E6%90%9C%E7%B4%A2/</id>
+    <published>2022-04-26T01:00:59.000Z</published>
+    <updated>2022-04-26T01:06:38.889Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Everything：最快文件搜索利器"><a href="#Everything：最快文件搜索利器" class="headerlink" title="Everything：最快文件搜索利器"></a>Everything：最快文件搜索利器</h1><p><a href="https://imgtg.com/image/xsdsY"><img src="https://i.imgtg.com/2022/04/26/xsdsY.md.png" alt="xsdsY.md.png"></a></p><h2 id="官网"><a href="#官网" class="headerlink" title="官网"></a>官网</h2><p><a href="https://www.voidtools.com/">http://www.voidtools.com</a></p><h2 id="“Everything”-是什么？"><a href="#“Everything”-是什么？" class="headerlink" title="“Everything” 是什么？"></a>“Everything” 是什么？</h2><p>“Everything” 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。</p><p>不像 Windows 内置搜索，”Everything” 默认显示电脑上每个文件和文件夹 (就如其名 “Everything”)。</p><p>您在搜索框输入的关键词将会筛选显示的文件和文件夹。</p><h2 id="“Everything”-索引全部文件需要多长时间？"><a href="#“Everything”-索引全部文件需要多长时间？" class="headerlink" title="“Everything” 索引全部文件需要多长时间？"></a>“Everything” 索引全部文件需要多长时间？</h2><p>“Everything” 仅索引文件和文件夹名，一般仅需几秒便可建立其数据库。</p><p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需 1 秒即可索引完成。</p><p>索引 1,000,000 个文件将需要大约 1 分钟。</p><h2 id="“Everything”-能否搜索文件内容？"><a href="#“Everything”-能否搜索文件内容？" class="headerlink" title="“Everything” 能否搜索文件内容？"></a>“Everything” 能否搜索文件内容？</h2><p>可以，”Everything” 可以通过搜索函数 content: 来搜索文件内容。</p><p>文件内容未被索引时，搜索内容将会很慢。</p><h2 id="“Everything”-是否占用很多系统资源？"><a href="#“Everything”-是否占用很多系统资源？" class="headerlink" title="“Everything” 是否占用很多系统资源？"></a>“Everything” 是否占用很多系统资源？</h2><p>不，”Everything” 仅需要使用非常少的系统资源。</p><p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需要大约 14 MB 的内存以及不到 9 MB 的硬盘空间。</p><p>1,000,000 个文件需要大约 75 MB 的内存和 45 MB 的硬盘空间。</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>everything是一款非常强大的本地搜索软件，轻量但并不简单，值得下载</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Everything：最快文件搜索利器&quot;&gt;&lt;a href=&quot;#Everything：最快文件搜索利器&quot; class=&quot;headerlink&quot; title=&quot;Everything：最快文件搜索利器&quot;&gt;&lt;/a&gt;Everything：最快文件搜索利器&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+      
+    
+    
+    
+    <category term="软件工具" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>常用软件推荐</title>
