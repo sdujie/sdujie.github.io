@@ -988,4 +988,111 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.imgtg.com/2022/04/26/x9bxX.png" alt="x9bxX.png"></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>利用DNS加快GitHub、Steam等平台的访问速度</title>
+    <url>/2022/04/27/%E5%88%A9%E7%94%A8DNS%E5%8A%A0%E5%BF%ABGitHub%E3%80%81Steam%E7%AD%89%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="利用DNS加速各平台的访问速度"><a href="#利用DNS加速各平台的访问速度" class="headerlink" title="利用DNS加速各平台的访问速度"></a>利用DNS加速各平台的访问速度</h2><h3 id="一、国内访问GitHub，Steam等平台慢的原因"><a href="#一、国内访问GitHub，Steam等平台慢的原因" class="headerlink" title="一、国内访问GitHub，Steam等平台慢的原因"></a>一、国内访问GitHub，Steam等平台慢的原因</h3><p>GitHub的<a href="https://so.csdn.net/so/search?q=CDN&spm=1001.2101.3001.7020">CDN</a>(Content Delivery Network,即内容分发网络)域名遭到DNS污染，无法连接使用GitHub的加速分发服务器，所以国内访问速度较慢。</p>
+<h3 id="二、解决方法"><a href="#二、解决方法" class="headerlink" title="二、解决方法"></a>二、解决方法</h3><p>修改Hosts文件，将域名解析直接指向IP地址，绕过DNS解析</p>
+<p>具体可参考<a href="https://www.cnblogs.com/liuchao888/p/11733996.html">GitHub访问速度慢的一种优化方法 - 西风鬼 - 博客园 (cnblogs.com)</a></p>
+<p>这里给出一款好用的开源免费软件</p>
+<p>链接：<a href="https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj">https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj</a><br>提取码：sduj </p>
+<p>解压后即可使用，使用简单</p>
+<p>选择需要加速的应用，解析到对应IP即可</p>
+<h3 id="三、结语"><a href="#三、结语" class="headerlink" title="三、结语"></a>三、结语</h3><p>加速访问GitHub、Steam等平台的方法很多，本文提供的仅为个人观点。</p>
+]]></content>
+      <categories>
+        <category>软件工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>考研单词笔记2</title>
+    <url>/2022/04/27/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B02/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记2"><a href="#考研单词笔记2" class="headerlink" title="考研单词笔记2"></a>考研单词笔记2</h2><blockquote>
+<p>initiate	vt，n	开始创始，新入会的人</p>
+<p>principal	adj，n	主要的，校长</p>
+<p>verdict n 裁决，裁定，意见，决定</p>
+<p>implicit	adj 含蓄的，内含的</p>
+<p>thorough adj 全面的，彻底的，仔细的</p>
+<p>tragedy	n 不幸，悲剧</p>
+<p>spoil	vt，vi，n	破坏溺爱；变质；赃物，战力品</p>
+<p>reluctant	adj	勉强的不情愿的</p>
+<p>rational	adj	合理的，理性的</p>
+<p>concise	adj	简洁的，简明的</p>
+<p>joint	adj	联合的，共同的</p>
+<p>pursue	vt	追求，继续进行，追赶</p>
+<p>trail	vt，vi，n	拖拉，跟踪；痕迹踪迹</p>
+<p>indulge	vi,vt	沉迷于，满足，纵容</p>
+<p>genius	n	天才人物，天赋本领</p>
+<p>ingenious	adj	精巧的，巧妙地</p>
+<p>forge 	vt,vi,n	缔造开创；稳步前进；铁匠铺</p>
+<p>harmony	n	融洽，和睦，和谐</p>
+<p>simultaneous	adj	同步的，同时存在的</p>
+<p>homogeneous	adj	由同种族人组成的，同类组成的</p>
+<p>neighborhood	n	居住区，街坊邻居</p>
+<p>staff	n，vt	全体职员；任职于</p>
+<p>occasion	n	特殊场合，时机</p>
+<p>recur	vi	再次发生，再次出现</p>
+<p>curb	vt	控制，抑制</p>
+<p>stem	n，vt,vi	植物茎秆；阻止遏制；源于</p>
+<p>vulgar	adj	粗俗的，俗气的，下流的</p>
+<p>deteriorate	vi	恶化，变坏，衰退</p>
+<p>extinct	adj	已灭绝的，消失的</p>
+<p>instinct	n	本能天性直觉</p>
+</blockquote>
+<blockquote>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>考研单词笔记</category>
+      </categories>
+      <tags>
+        <tag>考研</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决github绑定域名自动解绑问题</title>
+    <url>/2022/04/27/%E8%A7%A3%E5%86%B3github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D%E8%87%AA%E5%8A%A8%E8%A7%A3%E7%BB%91%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="解决GitHub的库绑定域名后更新文章自动解绑问题"><a href="#解决GitHub的库绑定域名后更新文章自动解绑问题" class="headerlink" title="解决GitHub的库绑定域名后更新文章自动解绑问题"></a>解决GitHub的库绑定域名后更新文章自动解绑问题</h2><p>在使用hexo部署博客文章时，很多人都会遇到一个问题：</p>
+<p>为什么每次部署发布文章的时候，GitHub库绑定的域名就自动解绑了呢？</p>
+<p>先上答案：将CNAME文件置于根目录下的source文件夹中。</p>
+<p>原理：就是每次使用hexo将本地资源部署到GitHub库的时候，会自动覆盖之前的内容，我们绑定域名的时候有一个文件CNAME，也会被自动覆盖；基于此，我们在本地的目录下，找到source文件夹，在这里新建一个CNAME文件，这样，每次使用hexo部署的时候，都会将其上传到GitHub，自动覆盖之前的CNAME文件。</p>
+<p>问题解决！</p>
+<h2 id="什么是CNAME"><a href="#什么是CNAME" class="headerlink" title="什么是CNAME?"></a>什么是CNAME?</h2><h3 id="域名解析："><a href="#域名解析：" class="headerlink" title="域名解析："></a>域名解析：</h3><p>最初访问互联网采用的是我们耳熟能详的IP地址，后来人们发现使用IP太多，空空的数字，不好记忆；于是便出现了域名，那什么是域名呢？举个简单的例子，<a href="http://www.wechat.com/">www.wechat.com</a> 这就是域名；域名虽然便于我们理解和记忆，但是路由器并不认识，这个时候便有了域名解析；提到域名解析就必然会提到DNS服务器，置于DNS解析的具体过程请大家自行查找相关资料。</p>
+<h3 id="A记录和CNAME记录"><a href="#A记录和CNAME记录" class="headerlink" title="A记录和CNAME记录"></a>A记录和CNAME记录</h3><p>有自己域名的小伙伴肯定知道这两个概念，他们在域名解析中扮演了十分重要的角色；</p>
+<p>A记录，就是将域名解析成IP；CNAME就是将域名解析成另外的域名；</p>
+<p>比如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">某页域名myblog.github的IP为102.102.1.1</span><br><span class="line">你的域名myblog.com</span><br></pre></td></tr></table></figure>
+
+<p>使用CNAME记录解析，便可以将你的域名myblog.com解析到myblog.github，然后在解析到对应的IP地址102.102.1.1</p>
+<p>使用A记录解析，便可以将你的域名myblog.com解析到102.102.1.1</p>
+<p>域名解析选A记录还是CNAME记录？</p>
+<p>一般情况下都建议使用CNAME记录。CNAME记录可用于CDN加速，通过CDN加速别名解析网站域名，这样既可以起到加速网站的作用，又能隐藏网站的真实IP，减少被攻击的几率。</p>
+<p>另外，对于搜索引擎对网站的收录，无论是A记录还是CNAME记录都是没有差别的。</p>
+<p>CNAME解析的记录值：在网站管理里面，找到客户网站部署位置这里显示的CNAME解析域名即为CNAME解析的记录值。</p>
+<p>A记录解析的记录值：可以ping一下客户网站部署位置的CNAME解析域名，得到的IP就是做A记录的记录值注意只有@这条记录做A记录，其他全部做CNAME记录。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>简单的说，A记录直接指向IP地址，CNAME记录指向域名。IP地址是互联网世界中唯一的，而CNAME指向的域名也要指向A记录，也就是说IP地址可以按需更换，而无需变更CNAME的记录值。</p>
+<p>参考原文链接：<a href="https://blog.csdn.net/weixin_35969684/article/details/112337708">https://blog.csdn.net/weixin_35969684/article/details/112337708</a></p>
+]]></content>
+      <categories>
+        <category>GitHub</category>
+      </categories>
+      <tags>
+        <tag>GitHub</tag>
+      </tags>
+  </entry>
 </search>
