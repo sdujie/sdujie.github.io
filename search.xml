@@ -734,11 +734,35 @@
       </tags>
   </entry>
   <entry>
-    <title>我的博客</title>
-    <url>/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客</p>
-<p>吾生也有涯，而知也无涯！</p>
+    <title>常用软件推荐</title>
+    <url>/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="常用软件推荐"><a href="#常用软件推荐" class="headerlink" title="常用软件推荐"></a>常用软件推荐</h1><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>推荐<a href="https://pan.baidu.com/s/14Mq7d6QOlrLyxigzIt-BXg?pwd=m7tx">冰点文库</a></p>
+<p>提取码：m7tx</p>
+<p>使用教程：百度网盘提取链接保存，下载即可使用</p>
+<p>复制链接，一键免费下载</p>
+<h2 id="IDM下载器"><a href="#IDM下载器" class="headerlink" title="IDM下载器"></a>IDM下载器</h2><p>官方下载链接：</p>
+<p><a href="http://ys-f.ysepan.com/549340427/713028443/SIuLRKu75275M326WNGJe0/idman640build11.exe">IDM官方版</a></p>
+<p>适配win11版本<a href="http://ys-e.ysepan.com/549340455/712985354/VFtMVLr7435652GKJN5784/idman640build1.exe">IDM</a></p>
+<p>破解方式：重置试用</p>
+<p>仅需删除注册表信息即可重复试用30天，之后重复操作即可。</p>
+<p>直接下载<a href="https://musetransfer.com/s/tbvsynzkd">reset.reg</a>，退出正在运行的IDM，运行reset.reg文件清除IDM注册表。</p>
+<h2 id="免费开源视频剪辑软件-OpenShot"><a href="#免费开源视频剪辑软件-OpenShot" class="headerlink" title="免费开源视频剪辑软件 OpenShot"></a>免费开源视频剪辑软件 OpenShot</h2><p>OpenShot 创建于 2008 年，是一个免费开源的视频编辑器。可在 Linux，Mac 和 Windows 上使用。界面操作对新手比较友好。</p>
+<p><a href="https://www.openshot.org/zh-hans/download/"> 官网下载</a></p>
+<p>文件来自 OpenShot 官网，仅做加速下载分发用途</p>
+<h2 id="格式工厂-Format-Factory"><a href="#格式工厂-Format-Factory" class="headerlink" title="格式工厂 (Format Factory)"></a>格式工厂 (Format Factory)</h2><p>格式工厂 (Format Factory) 是老牌知名免费音视频 &#x2F; 压缩转换软件。</p>
+<p>从 2007 年开始格式工厂一直更新保持更新，始终免费，转换、压缩 媒体文件用格式工厂很简单。</p>
+<h3 id="格式工厂精简优化版"><a href="#格式工厂精简优化版" class="headerlink" title="格式工厂精简优化版"></a>格式工厂精简优化版</h3><p><a href="https://www.aliyundrive.com/s/8bdfdJQTWNC">https://www.aliyundrive.com/s/8bdfdJQTWNC</a><br><a href="https://www.lanzoup.com/b00ta661i">https://www.lanzoup.com/b00ta661i</a></p>
+<p>格式工厂精简优化版 Windows ，包含经典版 &#x2F; 稳定版 &#x2F; 最新版，精简了多余功能去除了广告。</p>
+<h3 id="格式工厂安卓版"><a href="#格式工厂安卓版" class="headerlink" title="格式工厂安卓版"></a>格式工厂安卓版</h3><p>格式工厂更新了安卓版本，可使用下方免费无限制版本</p>
+<p><a href="https://musetransfer.com/s/oqzn5owqp">https://musetransfer.com/s/oqzn5owqp</a></p>
+<p>格式工厂安卓无限制版，移除了付费功能，所有功能无限制使用。</p>
 ]]></content>
+      <categories>
+        <category>软件工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
   </entry>
   <entry>
     <title>山东大学FPGA实验4 有限状态机设计</title>
@@ -878,35 +902,11 @@
       </tags>
   </entry>
   <entry>
-    <title>常用软件推荐</title>
-    <url>/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="常用软件推荐"><a href="#常用软件推荐" class="headerlink" title="常用软件推荐"></a>常用软件推荐</h1><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>推荐<a href="https://pan.baidu.com/s/14Mq7d6QOlrLyxigzIt-BXg?pwd=m7tx">冰点文库</a></p>
-<p>提取码：m7tx</p>
-<p>使用教程：百度网盘提取链接保存，下载即可使用</p>
-<p>复制链接，一键免费下载</p>
-<h2 id="IDM下载器"><a href="#IDM下载器" class="headerlink" title="IDM下载器"></a>IDM下载器</h2><p>官方下载链接：</p>
-<p><a href="http://ys-f.ysepan.com/549340427/713028443/SIuLRKu75275M326WNGJe0/idman640build11.exe">IDM官方版</a></p>
-<p>适配win11版本<a href="http://ys-e.ysepan.com/549340455/712985354/VFtMVLr7435652GKJN5784/idman640build1.exe">IDM</a></p>
-<p>破解方式：重置试用</p>
-<p>仅需删除注册表信息即可重复试用30天，之后重复操作即可。</p>
-<p>直接下载<a href="https://musetransfer.com/s/tbvsynzkd">reset.reg</a>，退出正在运行的IDM，运行reset.reg文件清除IDM注册表。</p>
-<h2 id="免费开源视频剪辑软件-OpenShot"><a href="#免费开源视频剪辑软件-OpenShot" class="headerlink" title="免费开源视频剪辑软件 OpenShot"></a>免费开源视频剪辑软件 OpenShot</h2><p>OpenShot 创建于 2008 年，是一个免费开源的视频编辑器。可在 Linux，Mac 和 Windows 上使用。界面操作对新手比较友好。</p>
-<p><a href="https://www.openshot.org/zh-hans/download/"> 官网下载</a></p>
-<p>文件来自 OpenShot 官网，仅做加速下载分发用途</p>
-<h2 id="格式工厂-Format-Factory"><a href="#格式工厂-Format-Factory" class="headerlink" title="格式工厂 (Format Factory)"></a>格式工厂 (Format Factory)</h2><p>格式工厂 (Format Factory) 是老牌知名免费音视频 &#x2F; 压缩转换软件。</p>
-<p>从 2007 年开始格式工厂一直更新保持更新，始终免费，转换、压缩 媒体文件用格式工厂很简单。</p>
-<h3 id="格式工厂精简优化版"><a href="#格式工厂精简优化版" class="headerlink" title="格式工厂精简优化版"></a>格式工厂精简优化版</h3><p><a href="https://www.aliyundrive.com/s/8bdfdJQTWNC">https://www.aliyundrive.com/s/8bdfdJQTWNC</a><br><a href="https://www.lanzoup.com/b00ta661i">https://www.lanzoup.com/b00ta661i</a></p>
-<p>格式工厂精简优化版 Windows ，包含经典版 &#x2F; 稳定版 &#x2F; 最新版，精简了多余功能去除了广告。</p>
-<h3 id="格式工厂安卓版"><a href="#格式工厂安卓版" class="headerlink" title="格式工厂安卓版"></a>格式工厂安卓版</h3><p>格式工厂更新了安卓版本，可使用下方免费无限制版本</p>
-<p><a href="https://musetransfer.com/s/oqzn5owqp">https://musetransfer.com/s/oqzn5owqp</a></p>
-<p>格式工厂安卓无限制版，移除了付费功能，所有功能无限制使用。</p>
+    <title>我的博客</title>
+    <url>/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客</p>
+<p>吾生也有涯，而知也无涯！</p>
 ]]></content>
-      <categories>
-        <category>软件工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
   </entry>
   <entry>
     <title>经典的错误，标准的零分</title>
@@ -1040,6 +1040,31 @@
       </tags>
   </entry>
   <entry>
+    <title>软件推荐-电脑文件极速搜索</title>
+    <url>/2022/04/26/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E6%9E%81%E9%80%9F%E6%90%9C%E7%B4%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Everything：最快文件搜索利器"><a href="#Everything：最快文件搜索利器" class="headerlink" title="Everything：最快文件搜索利器"></a>Everything：最快文件搜索利器</h1><p><a href="https://imgtg.com/image/xsdsY"><img src="https://i.imgtg.com/2022/04/26/xsdsY.md.png" alt="xsdsY.md.png"></a></p>
+<h2 id="官网"><a href="#官网" class="headerlink" title="官网"></a>官网</h2><p><a href="https://www.voidtools.com/">http://www.voidtools.com</a></p>
+<h2 id="“Everything”-是什么？"><a href="#“Everything”-是什么？" class="headerlink" title="“Everything” 是什么？"></a>“Everything” 是什么？</h2><p>“Everything” 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。</p>
+<p>不像 Windows 内置搜索，”Everything” 默认显示电脑上每个文件和文件夹 (就如其名 “Everything”)。</p>
+<p>您在搜索框输入的关键词将会筛选显示的文件和文件夹。</p>
+<h2 id="“Everything”-索引全部文件需要多长时间？"><a href="#“Everything”-索引全部文件需要多长时间？" class="headerlink" title="“Everything” 索引全部文件需要多长时间？"></a>“Everything” 索引全部文件需要多长时间？</h2><p>“Everything” 仅索引文件和文件夹名，一般仅需几秒便可建立其数据库。</p>
+<p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需 1 秒即可索引完成。</p>
+<p>索引 1,000,000 个文件将需要大约 1 分钟。</p>
+<h2 id="“Everything”-能否搜索文件内容？"><a href="#“Everything”-能否搜索文件内容？" class="headerlink" title="“Everything” 能否搜索文件内容？"></a>“Everything” 能否搜索文件内容？</h2><p>可以，”Everything” 可以通过搜索函数 content: 来搜索文件内容。</p>
+<p>文件内容未被索引时，搜索内容将会很慢。</p>
+<h2 id="“Everything”-是否占用很多系统资源？"><a href="#“Everything”-是否占用很多系统资源？" class="headerlink" title="“Everything” 是否占用很多系统资源？"></a>“Everything” 是否占用很多系统资源？</h2><p>不，”Everything” 仅需要使用非常少的系统资源。</p>
+<p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需要大约 14 MB 的内存以及不到 9 MB 的硬盘空间。</p>
+<p>1,000,000 个文件需要大约 75 MB 的内存和 45 MB 的硬盘空间。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>everything是一款非常强大的本地搜索软件，轻量但并不简单，值得下载</p>
+]]></content>
+      <categories>
+        <category>软件工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>解决github绑定域名自动解绑问题</title>
     <url>/2022/04/27/%E8%A7%A3%E5%86%B3github%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D%E8%87%AA%E5%8A%A8%E8%A7%A3%E7%BB%91%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="解决GitHub的库绑定域名后更新文章自动解绑问题"><a href="#解决GitHub的库绑定域名后更新文章自动解绑问题" class="headerlink" title="解决GitHub的库绑定域名后更新文章自动解绑问题"></a>解决GitHub的库绑定域名后更新文章自动解绑问题</h2><p>在使用hexo部署博客文章时，很多人都会遇到一个问题：</p>
@@ -1068,31 +1093,6 @@
       </categories>
       <tags>
         <tag>GitHub</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件推荐-电脑文件极速搜索</title>
-    <url>/2022/04/26/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90-%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E6%9E%81%E9%80%9F%E6%90%9C%E7%B4%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Everything：最快文件搜索利器"><a href="#Everything：最快文件搜索利器" class="headerlink" title="Everything：最快文件搜索利器"></a>Everything：最快文件搜索利器</h1><p><a href="https://imgtg.com/image/xsdsY"><img src="https://i.imgtg.com/2022/04/26/xsdsY.md.png" alt="xsdsY.md.png"></a></p>
-<h2 id="官网"><a href="#官网" class="headerlink" title="官网"></a>官网</h2><p><a href="https://www.voidtools.com/">http://www.voidtools.com</a></p>
-<h2 id="“Everything”-是什么？"><a href="#“Everything”-是什么？" class="headerlink" title="“Everything” 是什么？"></a>“Everything” 是什么？</h2><p>“Everything” 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。</p>
-<p>不像 Windows 内置搜索，”Everything” 默认显示电脑上每个文件和文件夹 (就如其名 “Everything”)。</p>
-<p>您在搜索框输入的关键词将会筛选显示的文件和文件夹。</p>
-<h2 id="“Everything”-索引全部文件需要多长时间？"><a href="#“Everything”-索引全部文件需要多长时间？" class="headerlink" title="“Everything” 索引全部文件需要多长时间？"></a>“Everything” 索引全部文件需要多长时间？</h2><p>“Everything” 仅索引文件和文件夹名，一般仅需几秒便可建立其数据库。</p>
-<p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需 1 秒即可索引完成。</p>
-<p>索引 1,000,000 个文件将需要大约 1 分钟。</p>
-<h2 id="“Everything”-能否搜索文件内容？"><a href="#“Everything”-能否搜索文件内容？" class="headerlink" title="“Everything” 能否搜索文件内容？"></a>“Everything” 能否搜索文件内容？</h2><p>可以，”Everything” 可以通过搜索函数 content: 来搜索文件内容。</p>
-<p>文件内容未被索引时，搜索内容将会很慢。</p>
-<h2 id="“Everything”-是否占用很多系统资源？"><a href="#“Everything”-是否占用很多系统资源？" class="headerlink" title="“Everything” 是否占用很多系统资源？"></a>“Everything” 是否占用很多系统资源？</h2><p>不，”Everything” 仅需要使用非常少的系统资源。</p>
-<p>全新安装的 Windows 10 (大约 120,000 个文件) 仅需要大约 14 MB 的内存以及不到 9 MB 的硬盘空间。</p>
-<p>1,000,000 个文件需要大约 75 MB 的内存和 45 MB 的硬盘空间。</p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>everything是一款非常强大的本地搜索软件，轻量但并不简单，值得下载</p>
-]]></content>
-      <categories>
-        <category>软件工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
       </tags>
   </entry>
 </search>
