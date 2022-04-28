@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-27T05:41:59.995Z</updated>
+  <updated>2022-04-28T09:36:55.600Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>考研单词笔记3</title>
+    <link href="http://example.com/2022/04/28/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B03/"/>
+    <id>http://example.com/2022/04/28/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B03/</id>
+    <published>2022-04-28T08:55:57.000Z</published>
+    <updated>2022-04-28T09:36:55.600Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记3"><a href="#考研单词笔记3" class="headerlink" title="考研单词笔记3"></a>考研单词笔记3</h2><p>The Examination Of Postgraduates</p><hr><details class="folding-tag" cyan><summary> 查看 </summary>              <div class='content'>              <blockquote><p>distinguish    vi,vt    区分，辨别，分清</p><p>instinct    n    本能天性，直觉</p><p>vulgar    adj    粗俗的，俗气的</p><p>deteriorate    vi    恶化，变坏，衰退</p><p>curb    vt,n    控制抑制；起控制作用的事物</p><p>stem    n，vt,vi    植物的茎秆；阻止遏制；源于</p><p>evolve    vivt    进化，逐步发展</p><p>steer    vtvi    驾驶，行驶</p><p>refrain    vi,n    克制避免；陈词滥调，副歌</p><p>restrain    vt    用武力阻止，克制</p><p>constrain    vt    限制，约束，强迫</p><p>institute    n    学院，学会</p><p>specialize    vi    专功，专门研究</p><p>speciality    n    特长，专业，专长</p><p>recur    vi    重现，复发，再来</p><p>underline    vt    构成…的基础或起因</p><p>endure    v    忍耐，忍受，持久</p><p>storage    n    贮藏，存储，贮存量</p><p>abundant    adj    大量的，充裕的</p><p>trail        审判试用试验</p><p>arrest    n    拘留逮捕，吸引注意</p><p>gamble    v    冒险赌博投机</p><p>chronic    adj    慢性的，长久的</p><p>intrinsic    adj    固有的，内在的 ，本质的</p><p>formidable    adj    可怕的，令人敬畏的</p><p>surplus    n    过剩，剩余</p><p>nuclear    adj    核能的，核心的</p><p>nucleus    n    原子（核）</p><p>blast    n    爆炸，一阵风，一股气流</p><p>deadly    adj    致命的，势不两立的，极端的</p><p>expedition    n    探险队</p><p>dismay    n    失望，气馁，惊恐</p><p>illustrate    vt    说明，加插图</p><p>exemplify    vt    举例证明</p><p>demonstrate    vt     证明，举行示威游行</p><p>demonstration    n    论证，示威游行</p><p>symptom    n    征兆，特征</p><p>diagnose    vt    诊断，判断    diagnosis    n    诊断</p><p>terminal    n    终点，终端</p><p>imply    vt    暗示，意味着</p><p>cite    vt    引用，引证</p></blockquote>              </div>            </details>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="考研单词笔记" scheme="http://example.com/categories/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="考研" scheme="http://example.com/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>利用DNS加快GitHub、Steam等平台的访问速度</title>
