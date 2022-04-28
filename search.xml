@@ -1,47 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>23考研PDF课本</title>
-    <url>/2022/04/26/23%E8%80%83%E7%A0%94PDF%E8%AF%BE%E6%9C%AC/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="23考研课本高清PDF扫描版"><a href="#23考研课本高清PDF扫描版" class="headerlink" title="23考研课本高清PDF扫描版"></a>23考研课本高清PDF扫描版</h2><p><a href="https://imgtg.com/image/xsVov"><img src="https://i.imgtg.com/2022/04/26/xsVov.md.png" alt="xsVov.md.png"></a></p>
-<p>无水印，阿里云盘资源</p>
-<p><a href="https://www.aliyundrive.com/s/VkGoLuzWfpv">点此获取</a></p>
-<p>提取码：</p>
-]]></content>
-      <categories>
-        <category>考研资料</category>
-      </categories>
-      <tags>
-        <tag>考研</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Modelsim SE 10.7 使用介绍</title>
-    <url>/2022/04/25/Modelsim-SE-%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本文以仿真软件Modelsim SE 10.7 版本为例，进行介绍modelsim软件的基本使用；</p>
-<p>软件下载，老方法           微信搜索modelsim下载即可找到相关说明贴，按照说明下载完成安装即可；</p>
-<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>以FPGA实验的仿真为例，进行介绍</p>
-<h6 id="首先需要在Quartus软件中生成源代码文件和激励块文件"><a href="#首先需要在Quartus软件中生成源代码文件和激励块文件" class="headerlink" title="首先需要在Quartus软件中生成源代码文件和激励块文件"></a>首先需要在Quartus软件中生成源代码文件和激励块文件</h6><p>书写的格式和内容参照相关课本资料，以m5序列码的仿真威力，生成m5.v文件和test_m5.v激励块文件（testbench）</p>
-<h6 id="打开现在好的modelsim软件。点击左上角新建工程文件："><a href="#打开现在好的modelsim软件。点击左上角新建工程文件：" class="headerlink" title="打开现在好的modelsim软件。点击左上角新建工程文件："></a>打开现在好的modelsim软件。点击左上角新建工程文件：</h6><p><img src="https://s2.loli.net/2022/04/25/UCgOZRdGKNlqLIp.png" alt="1.png"></p>
-<h6 id="输入工程名（随便）点击OK"><a href="#输入工程名（随便）点击OK" class="headerlink" title="输入工程名（随便）点击OK"></a>输入工程名（随便）点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/wc4bmWsZ63Vn5Sl.png" alt="2.png"></p>
-<h6 id="在弹出来的界面选择添加文件"><a href="#在弹出来的界面选择添加文件" class="headerlink" title="在弹出来的界面选择添加文件"></a>在弹出来的界面选择添加文件</h6><p><img src="https://s2.loli.net/2022/04/25/9vazjixILAQCMYJ.png" alt="3.png"></p>
-<h6 id="添加文件，添加完成点击OK"><a href="#添加文件，添加完成点击OK" class="headerlink" title="添加文件，添加完成点击OK"></a>添加文件，添加完成点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/uFaQ7AxVcb2hnzZ.png" alt="4.png"></p>
-<h6 id="点击上方菜单中的compile→compile-all"><a href="#点击上方菜单中的compile→compile-all" class="headerlink" title="点击上方菜单中的compile→compile all"></a>点击上方菜单中的compile→compile all</h6><h6 id="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："><a href="#编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：" class="headerlink" title="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："></a>编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：</h6><p><img src="https://s2.loli.net/2022/04/25/Q1HhPiMZFSGunqI.png" alt="8.png"></p>
-<h6 id="点击左下角库library"><a href="#点击左下角库library" class="headerlink" title="点击左下角库library"></a>点击左下角库library</h6><p><img src="https://s2.loli.net/2022/04/25/M8mVEg7wfCBZDsI.png" alt="9.png"></p>
-<h6 id="在界面中选择work左侧的加号，打开工作"><a href="#在界面中选择work左侧的加号，打开工作" class="headerlink" title="在界面中选择work左侧的加号，打开工作"></a>在界面中选择work左侧的加号，打开工作</h6><p><img src="https://s2.loli.net/2022/04/25/wI3UcgKJjvWfRAq.png" alt="10.png"></p>
-<h6 id="选择testbench文件，右键选择simulation。如下所示："><a href="#选择testbench文件，右键选择simulation。如下所示：" class="headerlink" title="选择testbench文件，右键选择simulation。如下所示："></a>选择testbench文件，右键选择simulation。如下所示：</h6><p><img src="https://s2.loli.net/2022/04/25/obNe3hKkq5iXwOF.png" alt="11.png"></p>
-<h6 id="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："><a href="#仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：" class="headerlink" title="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："></a>仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：</h6><p><img src="https://s2.loli.net/2022/04/25/UW2rfihNvVX5M46.png" alt="12.png"></p>
-<h6 id="此时会出现仿真界面，但是并没有波形，如下图："><a href="#此时会出现仿真界面，但是并没有波形，如下图：" class="headerlink" title="此时会出现仿真界面，但是并没有波形，如下图："></a>此时会出现仿真界面，但是并没有波形，如下图：</h6><p><img src="https://s2.loli.net/2022/04/25/fD4nvdXcs9HQkI3.png" alt="13.png"></p>
-<h6 id="回到上一个界面，点击上放菜单中的simulate→run右run-all"><a href="#回到上一个界面，点击上放菜单中的simulate→run右run-all" class="headerlink" title="回到上一个界面，点击上放菜单中的simulate→run右run-all"></a>回到上一个界面，点击上放菜单中的simulate→run右run-all</h6><p><img src="https://s2.loli.net/2022/04/25/VsKdBIXWbUMo2wH.png" alt="14.png"></p>
-<h6 id="再回到仿真界面，出现仿真波形，成功"><a href="#再回到仿真界面，出现仿真波形，成功" class="headerlink" title="再回到仿真界面，出现仿真波形，成功"></a>再回到仿真界面，出现仿真波形，成功</h6><p><img src="https://s2.loli.net/2022/04/25/gSD4WYJ63X95mwC.png" alt="15.png"></p>
-<h6 id="如果想结束当前仿真，在上一个界面的simulate中点击end-simulation"><a href="#如果想结束当前仿真，在上一个界面的simulate中点击end-simulation" class="headerlink" title="如果想结束当前仿真，在上一个界面的simulate中点击end simulation"></a>如果想结束当前仿真，在上一个界面的simulate中点击end simulation</h6><p><img src="https://s2.loli.net/2022/04/25/l6VFapvdK9Z7Lrk.png" alt="16.png"></p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>本文主要针对FPGA实验的仿真，进行了简单的介绍；其他基本仿真动作的使用请参照官方说明。</p>
-]]></content>
-      <tags>
-        <tag>常用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Quartus13.1使用介绍</title>
     <url>/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><p>微信搜索quartus相关内容可进行下载；</p>
@@ -94,22 +53,29 @@
       </tags>
   </entry>
   <entry>
-    <title>利用DNS加快GitHub、Steam等平台的访问速度</title>
-    <url>/2022/04/27/%E5%88%A9%E7%94%A8DNS%E5%8A%A0%E5%BF%ABGitHub%E3%80%81Steam%E7%AD%89%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="利用DNS加速各平台的访问速度"><a href="#利用DNS加速各平台的访问速度" class="headerlink" title="利用DNS加速各平台的访问速度"></a>利用DNS加速各平台的访问速度</h2><h3 id="一、国内访问GitHub，Steam等平台慢的原因"><a href="#一、国内访问GitHub，Steam等平台慢的原因" class="headerlink" title="一、国内访问GitHub，Steam等平台慢的原因"></a>一、国内访问GitHub，Steam等平台慢的原因</h3><p>GitHub的<a href="https://so.csdn.net/so/search?q=CDN&amp;spm=1001.2101.3001.7020">CDN</a>(Content Delivery Network,即内容分发网络)域名遭到DNS污染，无法连接使用GitHub的加速分发服务器，所以国内访问速度较慢。</p>
-<h3 id="二、解决方法"><a href="#二、解决方法" class="headerlink" title="二、解决方法"></a>二、解决方法</h3><p>修改Hosts文件，将域名解析直接指向IP地址，绕过DNS解析</p>
-<p>具体可参考<a href="https://www.cnblogs.com/liuchao888/p/11733996.html">GitHub访问速度慢的一种优化方法 - 西风鬼 - 博客园 (cnblogs.com)</a></p>
-<p>这里给出一款好用的开源免费软件</p>
-<p>链接：<a href="https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj">https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj</a><br>提取码：sduj </p>
-<p>解压后即可使用，使用简单</p>
-<p>选择需要加速的应用，解析到对应IP即可</p>
-<h3 id="三、结语"><a href="#三、结语" class="headerlink" title="三、结语"></a>三、结语</h3><p>加速访问GitHub、Steam等平台的方法很多，本文提供的仅为个人观点。</p>
+    <title>Modelsim SE 10.7 使用介绍</title>
+    <url>/2022/04/25/Modelsim-SE-%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本文以仿真软件Modelsim SE 10.7 版本为例，进行介绍modelsim软件的基本使用；</p>
+<p>软件下载，老方法           微信搜索modelsim下载即可找到相关说明贴，按照说明下载完成安装即可；</p>
+<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>以FPGA实验的仿真为例，进行介绍</p>
+<h6 id="首先需要在Quartus软件中生成源代码文件和激励块文件"><a href="#首先需要在Quartus软件中生成源代码文件和激励块文件" class="headerlink" title="首先需要在Quartus软件中生成源代码文件和激励块文件"></a>首先需要在Quartus软件中生成源代码文件和激励块文件</h6><p>书写的格式和内容参照相关课本资料，以m5序列码的仿真威力，生成m5.v文件和test_m5.v激励块文件（testbench）</p>
+<h6 id="打开现在好的modelsim软件。点击左上角新建工程文件："><a href="#打开现在好的modelsim软件。点击左上角新建工程文件：" class="headerlink" title="打开现在好的modelsim软件。点击左上角新建工程文件："></a>打开现在好的modelsim软件。点击左上角新建工程文件：</h6><p><img src="https://s2.loli.net/2022/04/25/UCgOZRdGKNlqLIp.png" alt="1.png"></p>
+<h6 id="输入工程名（随便）点击OK"><a href="#输入工程名（随便）点击OK" class="headerlink" title="输入工程名（随便）点击OK"></a>输入工程名（随便）点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/wc4bmWsZ63Vn5Sl.png" alt="2.png"></p>
+<h6 id="在弹出来的界面选择添加文件"><a href="#在弹出来的界面选择添加文件" class="headerlink" title="在弹出来的界面选择添加文件"></a>在弹出来的界面选择添加文件</h6><p><img src="https://s2.loli.net/2022/04/25/9vazjixILAQCMYJ.png" alt="3.png"></p>
+<h6 id="添加文件，添加完成点击OK"><a href="#添加文件，添加完成点击OK" class="headerlink" title="添加文件，添加完成点击OK"></a>添加文件，添加完成点击OK</h6><p><img src="https://s2.loli.net/2022/04/25/uFaQ7AxVcb2hnzZ.png" alt="4.png"></p>
+<h6 id="点击上方菜单中的compile→compile-all"><a href="#点击上方菜单中的compile→compile-all" class="headerlink" title="点击上方菜单中的compile→compile all"></a>点击上方菜单中的compile→compile all</h6><h6 id="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："><a href="#编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：" class="headerlink" title="编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入："></a>编译完成后，显示没有错误，如果有误请修改你的源代码；可以首先在quartus中编译确保无误后在导入：</h6><p><img src="https://s2.loli.net/2022/04/25/Q1HhPiMZFSGunqI.png" alt="8.png"></p>
+<h6 id="点击左下角库library"><a href="#点击左下角库library" class="headerlink" title="点击左下角库library"></a>点击左下角库library</h6><p><img src="https://s2.loli.net/2022/04/25/M8mVEg7wfCBZDsI.png" alt="9.png"></p>
+<h6 id="在界面中选择work左侧的加号，打开工作"><a href="#在界面中选择work左侧的加号，打开工作" class="headerlink" title="在界面中选择work左侧的加号，打开工作"></a>在界面中选择work左侧的加号，打开工作</h6><p><img src="https://s2.loli.net/2022/04/25/wI3UcgKJjvWfRAq.png" alt="10.png"></p>
+<h6 id="选择testbench文件，右键选择simulation。如下所示："><a href="#选择testbench文件，右键选择simulation。如下所示：" class="headerlink" title="选择testbench文件，右键选择simulation。如下所示："></a>选择testbench文件，右键选择simulation。如下所示：</h6><p><img src="https://s2.loli.net/2022/04/25/obNe3hKkq5iXwOF.png" alt="11.png"></p>
+<h6 id="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："><a href="#仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：" class="headerlink" title="仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作："></a>仿真会出现一个新的界面，等待加载完成后，选择激励文件，右键，按照如下操作：</h6><p><img src="https://s2.loli.net/2022/04/25/UW2rfihNvVX5M46.png" alt="12.png"></p>
+<h6 id="此时会出现仿真界面，但是并没有波形，如下图："><a href="#此时会出现仿真界面，但是并没有波形，如下图：" class="headerlink" title="此时会出现仿真界面，但是并没有波形，如下图："></a>此时会出现仿真界面，但是并没有波形，如下图：</h6><p><img src="https://s2.loli.net/2022/04/25/fD4nvdXcs9HQkI3.png" alt="13.png"></p>
+<h6 id="回到上一个界面，点击上放菜单中的simulate→run右run-all"><a href="#回到上一个界面，点击上放菜单中的simulate→run右run-all" class="headerlink" title="回到上一个界面，点击上放菜单中的simulate→run右run-all"></a>回到上一个界面，点击上放菜单中的simulate→run右run-all</h6><p><img src="https://s2.loli.net/2022/04/25/VsKdBIXWbUMo2wH.png" alt="14.png"></p>
+<h6 id="再回到仿真界面，出现仿真波形，成功"><a href="#再回到仿真界面，出现仿真波形，成功" class="headerlink" title="再回到仿真界面，出现仿真波形，成功"></a>再回到仿真界面，出现仿真波形，成功</h6><p><img src="https://s2.loli.net/2022/04/25/gSD4WYJ63X95mwC.png" alt="15.png"></p>
+<h6 id="如果想结束当前仿真，在上一个界面的simulate中点击end-simulation"><a href="#如果想结束当前仿真，在上一个界面的simulate中点击end-simulation" class="headerlink" title="如果想结束当前仿真，在上一个界面的simulate中点击end simulation"></a>如果想结束当前仿真，在上一个界面的simulate中点击end simulation</h6><p><img src="https://s2.loli.net/2022/04/25/l6VFapvdK9Z7Lrk.png" alt="16.png"></p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>本文主要针对FPGA实验的仿真，进行了简单的介绍；其他基本仿真动作的使用请参照官方说明。</p>
 ]]></content>
-      <categories>
-        <category>软件工具</category>
-      </categories>
       <tags>
-        <tag>工具</tag>
+        <tag>常用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -159,6 +125,21 @@
       </categories>
       <tags>
         <tag>自动控制原理实验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>23考研PDF课本</title>
+    <url>/2022/04/26/23%E8%80%83%E7%A0%94PDF%E8%AF%BE%E6%9C%AC/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="23考研课本高清PDF扫描版"><a href="#23考研课本高清PDF扫描版" class="headerlink" title="23考研课本高清PDF扫描版"></a>23考研课本高清PDF扫描版</h2><p><a href="https://imgtg.com/image/xsVov"><img src="https://i.imgtg.com/2022/04/26/xsVov.md.png" alt="xsVov.md.png"></a></p>
+<p>无水印，阿里云盘资源</p>
+<p><a href="https://www.aliyundrive.com/s/VkGoLuzWfpv">点此获取</a></p>
+<p>提取码：</p>
+]]></content>
+      <categories>
+        <category>考研资料</category>
+      </categories>
+      <tags>
+        <tag>考研</tag>
       </tags>
   </entry>
   <entry>
@@ -283,6 +264,25 @@
       </categories>
       <tags>
         <tag>FPGA实验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>利用DNS加快GitHub、Steam等平台的访问速度</title>
+    <url>/2022/04/27/%E5%88%A9%E7%94%A8DNS%E5%8A%A0%E5%BF%ABGitHub%E3%80%81Steam%E7%AD%89%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="利用DNS加速各平台的访问速度"><a href="#利用DNS加速各平台的访问速度" class="headerlink" title="利用DNS加速各平台的访问速度"></a>利用DNS加速各平台的访问速度</h2><h3 id="一、国内访问GitHub，Steam等平台慢的原因"><a href="#一、国内访问GitHub，Steam等平台慢的原因" class="headerlink" title="一、国内访问GitHub，Steam等平台慢的原因"></a>一、国内访问GitHub，Steam等平台慢的原因</h3><p>GitHub的<a href="https://so.csdn.net/so/search?q=CDN&amp;spm=1001.2101.3001.7020">CDN</a>(Content Delivery Network,即内容分发网络)域名遭到DNS污染，无法连接使用GitHub的加速分发服务器，所以国内访问速度较慢。</p>
+<h3 id="二、解决方法"><a href="#二、解决方法" class="headerlink" title="二、解决方法"></a>二、解决方法</h3><p>修改Hosts文件，将域名解析直接指向IP地址，绕过DNS解析</p>
+<p>具体可参考<a href="https://www.cnblogs.com/liuchao888/p/11733996.html">GitHub访问速度慢的一种优化方法 - 西风鬼 - 博客园 (cnblogs.com)</a></p>
+<p>这里给出一款好用的开源免费软件</p>
+<p>链接：<a href="https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj">https://pan.baidu.com/s/1_YRNkUSLnj7LFhDt8GPhYw?pwd=sduj</a><br>提取码：sduj </p>
+<p>解压后即可使用，使用简单</p>
+<p>选择需要加速的应用，解析到对应IP即可</p>
+<h3 id="三、结语"><a href="#三、结语" class="headerlink" title="三、结语"></a>三、结语</h3><p>加速访问GitHub、Steam等平台的方法很多，本文提供的仅为个人观点。</p>
+]]></content>
+      <categories>
+        <category>软件工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -642,6 +642,13 @@
       </tags>
   </entry>
   <entry>
+    <title>我的博客</title>
+    <url>/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客</p>
+<p>吾生也有涯，而知也无涯！</p>
+]]></content>
+  </entry>
+  <entry>
     <title>山东大学FPGA实验3 计数器设计</title>
     <url>/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C3-%E8%AE%A1%E6%95%B0%E5%99%A8%E8%AE%BE%E8%AE%A1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="实验一-8位异步二进制计数器模块"><a href="#实验一-8位异步二进制计数器模块" class="headerlink" title="实验一    8位异步二进制计数器模块"></a>实验一    8位异步二进制计数器模块</h2><h4 id="【实验内容及原理说明】"><a href="#【实验内容及原理说明】" class="headerlink" title="【实验内容及原理说明】"></a>【实验内容及原理说明】</h4><p>同步和异步计数器的区别：</p>
@@ -699,118 +706,6 @@
 ]]></content>
       <tags>
         <tag>FPGA实验</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常用软件推荐</title>
-    <url>/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="常用软件推荐"><a href="#常用软件推荐" class="headerlink" title="常用软件推荐"></a>常用软件推荐</h1><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>推荐<a href="https://pan.baidu.com/s/14Mq7d6QOlrLyxigzIt-BXg?pwd=m7tx">冰点文库</a></p>
-<p>提取码：m7tx</p>
-<p>使用教程：百度网盘提取链接保存，下载即可使用</p>
-<p>复制链接，一键免费下载</p>
-<h2 id="IDM下载器"><a href="#IDM下载器" class="headerlink" title="IDM下载器"></a>IDM下载器</h2><p>官方下载链接：</p>
-<p><a href="http://ys-f.ysepan.com/549340427/713028443/SIuLRKu75275M326WNGJe0/idman640build11.exe">IDM官方版</a></p>
-<p>适配win11版本<a href="http://ys-e.ysepan.com/549340455/712985354/VFtMVLr7435652GKJN5784/idman640build1.exe">IDM</a></p>
-<p>破解方式：重置试用</p>
-<p>仅需删除注册表信息即可重复试用30天，之后重复操作即可。</p>
-<p>直接下载<a href="https://musetransfer.com/s/tbvsynzkd">reset.reg</a>，退出正在运行的IDM，运行reset.reg文件清除IDM注册表。</p>
-<h2 id="免费开源视频剪辑软件-OpenShot"><a href="#免费开源视频剪辑软件-OpenShot" class="headerlink" title="免费开源视频剪辑软件 OpenShot"></a>免费开源视频剪辑软件 OpenShot</h2><p>OpenShot 创建于 2008 年，是一个免费开源的视频编辑器。可在 Linux，Mac 和 Windows 上使用。界面操作对新手比较友好。</p>
-<p><a href="https://www.openshot.org/zh-hans/download/"> 官网下载</a></p>
-<p>文件来自 OpenShot 官网，仅做加速下载分发用途</p>
-<h2 id="格式工厂-Format-Factory"><a href="#格式工厂-Format-Factory" class="headerlink" title="格式工厂 (Format Factory)"></a>格式工厂 (Format Factory)</h2><p>格式工厂 (Format Factory) 是老牌知名免费音视频 / 压缩转换软件。</p>
-<p>从 2007 年开始格式工厂一直更新保持更新，始终免费，转换、压缩 媒体文件用格式工厂很简单。</p>
-<h3 id="格式工厂精简优化版"><a href="#格式工厂精简优化版" class="headerlink" title="格式工厂精简优化版"></a>格式工厂精简优化版</h3><p><a href="https://www.aliyundrive.com/s/8bdfdJQTWNC">https://www.aliyundrive.com/s/8bdfdJQTWNC</a><br><a href="https://www.lanzoup.com/b00ta661i">https://www.lanzoup.com/b00ta661i</a></p>
-<p>格式工厂精简优化版 Windows ，包含经典版 / 稳定版 / 最新版，精简了多余功能去除了广告。</p>
-<h3 id="格式工厂安卓版"><a href="#格式工厂安卓版" class="headerlink" title="格式工厂安卓版"></a>格式工厂安卓版</h3><p>格式工厂更新了安卓版本，可使用下方免费无限制版本</p>
-<p><a href="https://musetransfer.com/s/oqzn5owqp">https://musetransfer.com/s/oqzn5owqp</a></p>
-<p>格式工厂安卓无限制版，移除了付费功能，所有功能无限制使用。</p>
-]]></content>
-      <categories>
-        <category>软件工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的博客</title>
-    <url>/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客</p>
-<p>吾生也有涯，而知也无涯！</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>经典的错误，标准的零分</title>
-    <url>/2022/04/26/%E7%BB%8F%E5%85%B8%E7%9A%84%E9%94%99%E8%AF%AF%EF%BC%8C%E6%A0%87%E5%87%86%E7%9A%84%E9%9B%B6%E5%88%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.imgtg.com/2022/04/26/x9bxX.png" alt="x9bxX.png"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>考研单词笔记1</title>
-    <url>/2022/04/26/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B01/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记1"><a href="#考研单词笔记1" class="headerlink" title="考研单词笔记1"></a>考研单词笔记1</h2><hr>
-<blockquote>
-<p>prone              adj    有倾向的，俯卧的</p>
-<p>retail               n/adv/vt    零售</p>
-<p>thereafter      adv    之后，伺候</p>
-<p>confess           v    供认，承认，坦白</p>
-<p>scandal           n    丑闻，丑行</p>
-<p>immune          adj    免疫的，不受影响的</p>
-<p>corrupt           adj、v    腐败的，不道德的，使腐化</p>
-<p>loan                 n    贷款</p>
-<p>mortgage       n、vt抵押借款</p>
-<p>identical         adj    完全相同的，同样的</p>
-<p>identity           n    身份本体，个体，特性，相同</p>
-<p>inevitable       adj    不可避免的，必然发生的</p>
-<p>yield                vt    出产，得出，放弃</p>
-<p>adhere            vi    附着，遵循（规章）</p>
-<p>peer                n、vi    同龄人，端详</p>
-<p>leisure            n    闲暇，空闲</p>
-<p>recreation      n    休闲，娱乐</p>
-<p>shield              n、vt    盾牌，掩护物，保护某人或某物</p>
-<p>persevere       vi    坚持不懈，锲而不舍</p>
-<p>facility             n    设备设施，天资</p>
-<p>utility               n、adj    公共事业，实用，多功能的，多用途的</p>
-<p>utilize              vt    利用使用</p>
-<p>consolidate    vt、vi    使加强，巩固，合并</p>
-<p>household     n、adj    一家人，家用的</p>
-<p>regardless     adv    不管不论</p>
-<p>spite               n、vt    怨恨，恶意，故意伤害</p>
-<p>spray              vt、n    喷，喷雾，喷洒</p>
-<p>pray                vt，adv    祈祷，祈求，请问</p>
-<p>nevertheless  adv    然而，尽管如此</p>
-<p>provided         cong    如果，在…条件下</p>
-<p>lest                   conj    唯恐，以免</p>
-<p>possess            vt    拥有，具有，支配</p>
-<p>asset                n    资产，财产</p>
-<p>sketch             n，vt    草图素描，概述</p>
-<p>moral              adj，n    道德的，品行道德，寓意</p>
-<p>ethic                n    伦理，道德体系</p>
-<p>timid                adj    胆怯的，羞怯的</p>
-<p>interfere          vi    介入，干涉，妨碍，干扰</p>
-<p>interval            n    间隔，中场休息</p>
-<p>interact            vi    相互沟通，相互作用</p>
-<p>interpret          vt，vi解释说明，口译</p>
-<p>recommend    vt    推荐，建议</p>
-<p>receipt             n    收据，收到，收入</p>
-<p>recipe              n    食谱，原因</p>
-<p>multitude        n    众多大量，民众，群众</p>
-<p>triple                vi，vt    变成三倍</p>
-<p>trail                  n，vi,vt     审判，试用，测试</p>
-<p>prevail            vi    盛行，站上风，战胜</p>
-<p>cease              vi,vt    使停止</p>
-<p>halt                 n，vi,vt    停止，暂停</p>
-<p>suspend        vt     暂停，中止，使停职</p>
-<p>resume         vt，vi    继续</p>
-<p>flourish         vi，vt,n    繁荣，挥舞，夸张动作</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>考研单词笔记</category>
-      </categories>
-      <tags>
-        <tag>考研</tag>
       </tags>
   </entry>
   <entry>
@@ -941,56 +836,108 @@
       </tags>
   </entry>
   <entry>
-    <title>考研单词笔记2</title>
-    <url>/2022/04/27/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B02/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记2"><a href="#考研单词笔记2" class="headerlink" title="考研单词笔记2"></a>考研单词笔记2</h2><blockquote>
-<p>initiate    vt，n    开始创始，新入会的人</p>
-<p>principal    adj，n    主要的，校长</p>
-<p>verdict n 裁决，裁定，意见，决定</p>
-<p>implicit    adj 含蓄的，内含的</p>
-<p>thorough adj 全面的，彻底的，仔细的</p>
-<p>tragedy    n 不幸，悲剧</p>
-<p>spoil    vt，vi，n    破坏溺爱；变质；赃物，战力品</p>
-<p>reluctant    adj    勉强的不情愿的</p>
-<p>rational    adj    合理的，理性的</p>
-<p>concise    adj    简洁的，简明的</p>
-<p>joint    adj    联合的，共同的</p>
-<p>pursue    vt    追求，继续进行，追赶</p>
-<p>trail    vt，vi，n    拖拉，跟踪；痕迹踪迹</p>
-<p>indulge    vi,vt    沉迷于，满足，纵容</p>
-<p>genius    n    天才人物，天赋本领</p>
-<p>ingenious    adj    精巧的，巧妙地</p>
-<p>forge     vt,vi,n    缔造开创；稳步前进；铁匠铺</p>
-<p>harmony    n    融洽，和睦，和谐</p>
-<p>simultaneous    adj    同步的，同时存在的</p>
-<p>homogeneous    adj    由同种族人组成的，同类组成的</p>
-<p>neighborhood    n    居住区，街坊邻居</p>
-<p>staff    n，vt    全体职员；任职于</p>
-<p>occasion    n    特殊场合，时机</p>
-<p>recur    vi    再次发生，再次出现</p>
-<p>curb    vt    控制，抑制</p>
-<p>stem    n，vt,vi    植物茎秆；阻止遏制；源于</p>
-<p>vulgar    adj    粗俗的，俗气的，下流的</p>
-<p>deteriorate    vi    恶化，变坏，衰退</p>
-<p>extinct    adj    已灭绝的，消失的</p>
-<p>instinct    n    本能天性直觉</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
+    <title>考研单词笔记1</title>
+    <url>/2022/04/26/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B01/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记1"><a href="#考研单词笔记1" class="headerlink" title="考研单词笔记1"></a>考研单词笔记1</h2><hr>
+<blockquote>
+<p>prone              adj    有倾向的，俯卧的</p>
+<p>retail               n/adv/vt    零售</p>
+<p>thereafter      adv    之后，伺候</p>
+<p>confess           v    供认，承认，坦白</p>
+<p>scandal           n    丑闻，丑行</p>
+<p>immune          adj    免疫的，不受影响的</p>
+<p>corrupt           adj、v    腐败的，不道德的，使腐化</p>
+<p>loan                 n    贷款</p>
+<p>mortgage       n、vt抵押借款</p>
+<p>identical         adj    完全相同的，同样的</p>
+<p>identity           n    身份本体，个体，特性，相同</p>
+<p>inevitable       adj    不可避免的，必然发生的</p>
+<p>yield                vt    出产，得出，放弃</p>
+<p>adhere            vi    附着，遵循（规章）</p>
+<p>peer                n、vi    同龄人，端详</p>
+<p>leisure            n    闲暇，空闲</p>
+<p>recreation      n    休闲，娱乐</p>
+<p>shield              n、vt    盾牌，掩护物，保护某人或某物</p>
+<p>persevere       vi    坚持不懈，锲而不舍</p>
+<p>facility             n    设备设施，天资</p>
+<p>utility               n、adj    公共事业，实用，多功能的，多用途的</p>
+<p>utilize              vt    利用使用</p>
+<p>consolidate    vt、vi    使加强，巩固，合并</p>
+<p>household     n、adj    一家人，家用的</p>
+<p>regardless     adv    不管不论</p>
+<p>spite               n、vt    怨恨，恶意，故意伤害</p>
+<p>spray              vt、n    喷，喷雾，喷洒</p>
+<p>pray                vt，adv    祈祷，祈求，请问</p>
+<p>nevertheless  adv    然而，尽管如此</p>
+<p>provided         cong    如果，在…条件下</p>
+<p>lest                   conj    唯恐，以免</p>
+<p>possess            vt    拥有，具有，支配</p>
+<p>asset                n    资产，财产</p>
+<p>sketch             n，vt    草图素描，概述</p>
+<p>moral              adj，n    道德的，品行道德，寓意</p>
+<p>ethic                n    伦理，道德体系</p>
+<p>timid                adj    胆怯的，羞怯的</p>
+<p>interfere          vi    介入，干涉，妨碍，干扰</p>
+<p>interval            n    间隔，中场休息</p>
+<p>interact            vi    相互沟通，相互作用</p>
+<p>interpret          vt，vi解释说明，口译</p>
+<p>recommend    vt    推荐，建议</p>
+<p>receipt             n    收据，收到，收入</p>
+<p>recipe              n    食谱，原因</p>
+<p>multitude        n    众多大量，民众，群众</p>
+<p>triple                vi，vt    变成三倍</p>
+<p>trail                  n，vi,vt     审判，试用，测试</p>
+<p>prevail            vi    盛行，站上风，战胜</p>
+<p>cease              vi,vt    使停止</p>
+<p>halt                 n，vi,vt    停止，暂停</p>
+<p>suspend        vt     暂停，中止，使停职</p>
+<p>resume         vt，vi    继续</p>
+<p>flourish         vi，vt,n    繁荣，挥舞，夸张动作</p>
 </blockquote>
+<hr>
 ]]></content>
       <categories>
         <category>考研单词笔记</category>
       </categories>
       <tags>
         <tag>考研</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>经典的错误，标准的零分</title>
+    <url>/2022/04/26/%E7%BB%8F%E5%85%B8%E7%9A%84%E9%94%99%E8%AF%AF%EF%BC%8C%E6%A0%87%E5%87%86%E7%9A%84%E9%9B%B6%E5%88%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://i.imgtg.com/2022/04/26/x9bxX.png" alt="x9bxX.png"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>常用软件推荐</title>
+    <url>/2022/04/26/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="常用软件推荐"><a href="#常用软件推荐" class="headerlink" title="常用软件推荐"></a>常用软件推荐</h1><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>推荐<a href="https://pan.baidu.com/s/14Mq7d6QOlrLyxigzIt-BXg?pwd=m7tx">冰点文库</a></p>
+<p>提取码：m7tx</p>
+<p>使用教程：百度网盘提取链接保存，下载即可使用</p>
+<p>复制链接，一键免费下载</p>
+<h2 id="IDM下载器"><a href="#IDM下载器" class="headerlink" title="IDM下载器"></a>IDM下载器</h2><p>官方下载链接：</p>
+<p><a href="http://ys-f.ysepan.com/549340427/713028443/SIuLRKu75275M326WNGJe0/idman640build11.exe">IDM官方版</a></p>
+<p>适配win11版本<a href="http://ys-e.ysepan.com/549340455/712985354/VFtMVLr7435652GKJN5784/idman640build1.exe">IDM</a></p>
+<p>破解方式：重置试用</p>
+<p>仅需删除注册表信息即可重复试用30天，之后重复操作即可。</p>
+<p>直接下载<a href="https://musetransfer.com/s/tbvsynzkd">reset.reg</a>，退出正在运行的IDM，运行reset.reg文件清除IDM注册表。</p>
+<h2 id="免费开源视频剪辑软件-OpenShot"><a href="#免费开源视频剪辑软件-OpenShot" class="headerlink" title="免费开源视频剪辑软件 OpenShot"></a>免费开源视频剪辑软件 OpenShot</h2><p>OpenShot 创建于 2008 年，是一个免费开源的视频编辑器。可在 Linux，Mac 和 Windows 上使用。界面操作对新手比较友好。</p>
+<p><a href="https://www.openshot.org/zh-hans/download/"> 官网下载</a></p>
+<p>文件来自 OpenShot 官网，仅做加速下载分发用途</p>
+<h2 id="格式工厂-Format-Factory"><a href="#格式工厂-Format-Factory" class="headerlink" title="格式工厂 (Format Factory)"></a>格式工厂 (Format Factory)</h2><p>格式工厂 (Format Factory) 是老牌知名免费音视频 / 压缩转换软件。</p>
+<p>从 2007 年开始格式工厂一直更新保持更新，始终免费，转换、压缩 媒体文件用格式工厂很简单。</p>
+<h3 id="格式工厂精简优化版"><a href="#格式工厂精简优化版" class="headerlink" title="格式工厂精简优化版"></a>格式工厂精简优化版</h3><p><a href="https://www.aliyundrive.com/s/8bdfdJQTWNC">https://www.aliyundrive.com/s/8bdfdJQTWNC</a><br><a href="https://www.lanzoup.com/b00ta661i">https://www.lanzoup.com/b00ta661i</a></p>
+<p>格式工厂精简优化版 Windows ，包含经典版 / 稳定版 / 最新版，精简了多余功能去除了广告。</p>
+<h3 id="格式工厂安卓版"><a href="#格式工厂安卓版" class="headerlink" title="格式工厂安卓版"></a>格式工厂安卓版</h3><p>格式工厂更新了安卓版本，可使用下方免费无限制版本</p>
+<p><a href="https://musetransfer.com/s/oqzn5owqp">https://musetransfer.com/s/oqzn5owqp</a></p>
+<p>格式工厂安卓无限制版，移除了付费功能，所有功能无限制使用。</p>
+]]></content>
+      <categories>
+        <category>软件工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -1063,6 +1010,59 @@
       </categories>
       <tags>
         <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>考研单词笔记2</title>
+    <url>/2022/04/27/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B02/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="考研单词笔记2"><a href="#考研单词笔记2" class="headerlink" title="考研单词笔记2"></a>考研单词笔记2</h2><blockquote>
+<p>initiate    vt，n    开始创始，新入会的人</p>
+<p>principal    adj，n    主要的，校长</p>
+<p>verdict n 裁决，裁定，意见，决定</p>
+<p>implicit    adj 含蓄的，内含的</p>
+<p>thorough adj 全面的，彻底的，仔细的</p>
+<p>tragedy    n 不幸，悲剧</p>
+<p>spoil    vt，vi，n    破坏溺爱；变质；赃物，战力品</p>
+<p>reluctant    adj    勉强的不情愿的</p>
+<p>rational    adj    合理的，理性的</p>
+<p>concise    adj    简洁的，简明的</p>
+<p>joint    adj    联合的，共同的</p>
+<p>pursue    vt    追求，继续进行，追赶</p>
+<p>trail    vt，vi，n    拖拉，跟踪；痕迹踪迹</p>
+<p>indulge    vi,vt    沉迷于，满足，纵容</p>
+<p>genius    n    天才人物，天赋本领</p>
+<p>ingenious    adj    精巧的，巧妙地</p>
+<p>forge     vt,vi,n    缔造开创；稳步前进；铁匠铺</p>
+<p>harmony    n    融洽，和睦，和谐</p>
+<p>simultaneous    adj    同步的，同时存在的</p>
+<p>homogeneous    adj    由同种族人组成的，同类组成的</p>
+<p>neighborhood    n    居住区，街坊邻居</p>
+<p>staff    n，vt    全体职员；任职于</p>
+<p>occasion    n    特殊场合，时机</p>
+<p>recur    vi    再次发生，再次出现</p>
+<p>curb    vt    控制，抑制</p>
+<p>stem    n，vt,vi    植物茎秆；阻止遏制；源于</p>
+<p>vulgar    adj    粗俗的，俗气的，下流的</p>
+<p>deteriorate    vi    恶化，变坏，衰退</p>
+<p>extinct    adj    已灭绝的，消失的</p>
+<p>instinct    n    本能天性直觉</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>考研单词笔记</category>
+      </categories>
+      <tags>
+        <tag>考研</tag>
       </tags>
   </entry>
 </search>
