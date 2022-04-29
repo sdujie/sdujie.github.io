@@ -1104,9 +1104,9 @@
     <title>山东大学DSP原理与应用实验2-C语言实验</title>
     <url>/2022/04/29/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6DSP%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%E5%AE%9E%E9%AA%8C2-C%E8%AF%AD%E8%A8%80%E5%AE%9E%E9%AA%8C/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-orange"  style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><p>look here</p></div></div>
-<h1 id="一、实验要求"><a href="#一、实验要求" class="headerlink" title="一、实验要求"></a>一、实验要求</h1><details class="folding-tag" cyan><summary> {% psw 点击展开 </summary>
+<h1 id="一、实验要求"><a href="#一、实验要求" class="headerlink" title="一、实验要求"></a>一、实验要求</h1><details class="folding-tag" cyan><summary> 点击展开 </summary>
               <div class='content'>
-              <p> %}</p><ol><li><p>利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。</p></li><li><p>利用MATLAB产生由不同的正弦波合成的波形文件，送入CCS。</p></li><li><p>编写C程序，分别实现低通、高通滤波，用CCS画出波形，给出结果分析。</p></li><li><p>利用编译器的op选项，对实验二的C语言程序按照级别进行优化，给出耗时的变化的分析。</p></li><li><p>应用CCS的内联函数实现低通、高通滤波，与步骤1中的耗时进行比较。</p></li></ol>
+              <ol><li><p>利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。</p></li><li><p>利用MATLAB产生由不同的正弦波合成的波形文件，送入CCS。</p></li><li><p>编写C程序，分别实现低通、高通滤波，用CCS画出波形，给出结果分析。</p></li><li><p>利用编译器的op选项，对实验二的C语言程序按照级别进行优化，给出耗时的变化的分析。</p></li><li><p>应用CCS的内联函数实现低通、高通滤波，与步骤1中的耗时进行比较。</p></li></ol>
               </div>
             </details>
 <h1 id="二、实验内容及步骤"><a href="#二、实验内容及步骤" class="headerlink" title="二、实验内容及步骤"></a>二、实验内容及步骤</h1><h3 id="1-利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。"><a href="#1-利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。" class="headerlink" title="1.利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。"></a>1.利用MATLAB的滤波器设计软件，生成低通滤波器、高通滤波器，分别给出滤波器系数。</h3><details class="folding-tag" yellow><summary> 点击展开 </summary>
