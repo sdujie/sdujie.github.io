@@ -1,4 +1,5 @@
 http://example.com/music/index.html
+http://example.com/Gallery/SDUQD/index.html
 http://example.com/2022/04/24/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C1-%E5%8A%A0%E6%B3%95%E5%99%A8%E8%AE%BE%E8%AE%A1/
 http://example.com/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C2-%E7%BC%96%E7%A0%81%E5%99%A8%E5%92%8C%E8%AF%91%E7%A0%81%E5%99%A8%E8%AE%BE%E8%AE%A1/
 http://example.com/2022/04/25/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6FPGA%E5%AE%9E%E9%AA%8C3-%E8%AE%A1%E6%95%B0%E5%99%A8%E8%AE%BE%E8%AE%A1/
@@ -28,7 +29,6 @@ http://example.com/categories/index.html
 http://example.com/Gallery/MYGIRL/index.html
 http://example.com/messageboard/index.html
 http://example.com/Gallery/WALL/index.html
-http://example.com/Gallery/SDUQD/index.html
 http://example.com/2022/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/
 http://example.com/
 http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/
