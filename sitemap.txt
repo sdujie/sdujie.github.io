@@ -1,3 +1,4 @@
+http://example.com/2022/05/03/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E6%95%B0%E6%B3%95/
 http://example.com/Gallery/index.html
 http://example.com/Gallery/Games/index.html
 http://example.com/about/index.html
@@ -39,8 +40,10 @@ http://example.com/tags/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E
 http://example.com/tags/DSP%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/
 http://example.com/tags/FPGA%E5%AE%9E%E9%AA%8C/
 http://example.com/tags/GitHub/
+http://example.com/tags/Math/
 http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/
 http://example.com/categories/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/
 http://example.com/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/
 http://example.com/categories/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D%E7%AC%94%E8%AE%B0/
 http://example.com/categories/GitHub/
+http://example.com/categories/%E6%95%B0%E5%AD%A6/
