@@ -1193,4 +1193,35 @@
         <tag>Math</tag>
       </tags>
   </entry>
+  <entry>
+    <title>百度网盘不限速下载</title>
+    <url>/2022/05/05/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8D%E9%99%90%E9%80%9F%E4%B8%8B%E8%BD%BD/</url>
+    <content><![CDATA[<h1 id="百度网盘不限速下载"><a href="#百度网盘不限速下载" class="headerlink" title="百度网盘不限速下载"></a>百度网盘不限速下载</h1><p>本文将基于IDM下载器，edge浏览器附加油猴脚本实现百度网盘不限速下载</p>
+<h2 id="一、安装IDM下载器"><a href="#一、安装IDM下载器" class="headerlink" title="一、安装IDM下载器"></a>一、安装IDM下载器</h2><details class="folding-tag" cyan><summary> 点击展开 </summary>
+              <div class='content'>
+              <p>目前的IDM下载器已经不在免费，需要购买序列号进行激活；网上的破解方法数不胜数，这里给大家安利一个免操作的方式；</p><p>点击 <a href="https://www.aliyundrive.com/s/SqN4rpFRvHE">链接</a> 获取文件，提取码g8z9，阿里云盘（不限速很好用）需要的可以去下载一个；</p><p>解压文件后，点击！绿化.bat自动运行安装程序，等待安装完成即可使用。</p>
+              </div>
+            </details>
+<h2 id="二、打开IDM下载器，配置相关参数"><a href="#二、打开IDM下载器，配置相关参数" class="headerlink" title="二、打开IDM下载器，配置相关参数"></a>二、打开IDM下载器，配置相关参数</h2><details class="folding-tag" cyan><summary> 点击展开 </summary>
+              <div class='content'>
+              <p>安装完成后在桌面会出现IDM的图标，点击打开；</p><p>点击下载→选项→连接→默认最大连接数改为32；</p><p>下载→选项中的浏览器要包含edge浏览器。</p>
+              </div>
+            </details>
+<h2 id="三、安装油猴脚本"><a href="#三、安装油猴脚本" class="headerlink" title="三、安装油猴脚本"></a>三、安装油猴脚本</h2><details class="folding-tag" cyan><summary> 点击展开 </summary>
+              <div class='content'>
+              <p>打开edge浏览器</p><p>点击右上角…找到扩展点击管理扩展，弹出界面中点击左侧获取Microsoft Edge扩展，搜索tempermonkey，安装油猴脚本；（油猴脚本强大到你叹为观止）</p><p>安装完成后打开油猴脚本，获取用户脚本中搜索<a href="https://greasyfork.org/zh-CN/scripts/438972-%E5%AE%8C%E7%BE%8E%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E5%8A%A9%E6%89%8B">完美百度网盘直链助手</a></p><p>安装完成后在油猴中开启此脚本；</p>
+              </div>
+            </details>
+<h2 id="四、开始下载"><a href="#四、开始下载" class="headerlink" title="四、开始下载"></a>四、开始下载</h2><details class="folding-tag" cyan><summary> 点击展开 </summary>
+              <div class='content'>
+              <p>打开edge浏览器，进入百度网盘界面会发现多了一个下载助手按钮，点击下载即可。</p>
+              </div>
+            </details>]]></content>
+      <categories>
+        <category>百度网盘破解</category>
+      </categories>
+      <tags>
+        <tag>百度网盘</tag>
+      </tags>
+  </entry>
 </search>
