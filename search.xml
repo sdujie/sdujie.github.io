@@ -1282,4 +1282,17 @@
         <tag>美化</tag>
       </tags>
   </entry>
+  <entry>
+    <title></title>
+    <url>/2022/10/18/Zotero%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD%E5%8E%9F%E5%9C%B0%E5%A4%8D%E6%B4%BB/</url>
+    <content><![CDATA[<p>title: Zotero软件翻译原地复活<br>date: 2022-05-05 16:07:29<br>tags: Zotero<br>categories: 科研<br>cover: <a href="https://tucang.cc/api/image/show/c68110d5d796e3b6e8f8ed9ae2e9811d">https://tucang.cc/api/image/show/c68110d5d796e3b6e8f8ed9ae2e9811d</a><br>copyright_url: <a href="https://www.sdujie.top">https://www.sdujie.top</a></p>
+<h1 id="Zotero软件翻译功能原地复活"><a href="#Zotero软件翻译功能原地复活" class="headerlink" title="Zotero软件翻译功能原地复活"></a>Zotero软件翻译功能原地复活</h1><p>必备科研软件-Zotero的翻译功能可能收到某种不知名的影响，导致无法正常使用，本文推荐一种简便快捷的方式，让你的Zotero软件的翻译功能冲出江湖！废话不多说，下面开始正文。</p>
+<p>step1：打开我的电脑→C盘→windows文件夹→system32文件夹→drivers文件夹→etc</p>
+<p>step2：在etc文件夹中找到host文件，选择记事本打开</p>
+<p>step3：在最后一行输入下面的内容：</p>
+<p>203.208.39.194 translate.googleapis.com</p>
+<p>step4：保存退出，重新打开Zotero，选在谷歌翻译，成功！</p>
+<p><a href="https://imgtg.com/image/J291G"><img src="https://i.imgtg.com/2022/10/18/J291G.md.png" alt="J291G.md.png"></a></p>
+]]></content>
+  </entry>
 </search>
