@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-24T13:29:02.280Z</updated>
+  <updated>2023-02-10T15:59:07.985Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最美的烟火</title>
+    <link href="http://example.com/2023/02/10/%E6%9C%80%E7%BE%8E%E7%9A%84%E7%83%9F%E7%81%AB/"/>
+    <id>http://example.com/2023/02/10/%E6%9C%80%E7%BE%8E%E7%9A%84%E7%83%9F%E7%81%AB/</id>
+    <published>2023-02-10T07:47:01.000Z</published>
+    <updated>2023-02-10T15:59:07.985Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><p class='p center logo large'>茫茫人海</p></h2><p class='p center small'>吾生也有涯，而知也无涯</p><h1 id="-1"><a href="#-1" class="headerlink" title=""></a><strong><div class="tip home faa-horizontal animated-hover"><p>绚烂世界，映衬温柔</p></div></strong></h1><details class="folding-tag" ><summary> 图片 </summary>              <div class='content'>              <p><img src="http://inews.gtimg.com/newsapp_ls/0/14841755467/0" alt=""></p><p><a href="https://imgtg.com/image/cyQCD"><img src="https://i.imgtg.com/2023/02/10/cyQCD.md.jpg" alt="cyQCD.md.jpg"></a></p>              </div>            </details><details class="folding-tag" cyan><summary> 梦想 </summary>              <div class='content'>              <div class='checkbox red checked'><input type="checkbox" checked="checked"/>            <p>如果有梦的话</p>            </div><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>请一定为她勇敢一次</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>在无尽的黑暗里寻找一束光</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>我想成为那个给予你光亮的人</p>            </div>              </div>            </details><details class="folding-tag" yellow open><summary> 点击 </summary>              <div class='content'>              <p><a href="https://imgtg.com/image/cyc46"><img src="https://i.imgtg.com/2023/02/10/cyc46.md.jpg" alt="cyc46.md.jpg"></a><br><a href="https://imgtg.com/image/cyd6P"><img src="https://i.imgtg.com/2023/02/10/cyd6P.md.jpg" alt="cyd6P.md.jpg"></a></p>              </div>            </details>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;p class=&#39;p center logo large&#39;&gt;茫茫人海&lt;/p&gt;&lt;/h2&gt;&lt;p class=&#39;p center small&#39;&gt;吾生也有涯，而知也无涯&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Zotero软件翻译原地复活</title>
@@ -467,33 +490,6 @@
       
     <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;本文以仿真软件Modelsim SE 10.7 版本为例，进行介绍modelsim软件的基本使用；&lt;/p&gt;
 &lt;p&gt;软件下载，老方法     </summary>
-      
-    
-    
-    
-    <category term="软件工具" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="常用软件" scheme="http://example.com/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Quartus13.1使用介绍</title>
-    <link href="http://example.com/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
-    <id>http://example.com/2022/04/25/Quartus13-1%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/</id>
-    <published>2022-04-25T05:57:52.000Z</published>
-    <updated>2022-05-02T11:17:07.052Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><p>微信搜索quartus相关内容可进行下载；</p><p>官网下载；</p><p>具体步骤略</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>网上的破解方式很多，就不在这里列举；</p><p>如果不想破解，本文提供一个简单的方式，无限制使用quartus软件；</p><p>quartus软件可以免费试用30天，就是利用此bug，无限试用30天—修改电脑时间至安装的30天内：</p><p>不会修改的看下图：</p><p><img src="https://s2.loli.net/2022/04/25/katEBVr4bUNDemY.png" alt="time.png"></p><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>以FPGA的实验为例，Verilog HDL语言</p><h6 id="打开工程"><a href="#打开工程" class="headerlink" title="打开工程"></a>打开工程</h6><p>修改完时间后，打开工程选择下面的选项：</p><p><img src="https://s2.loli.net/2022/04/25/YZJfDpN1mOdoyTV.png" alt="using.png"></p><h6 id="新建工程"><a href="#新建工程" class="headerlink" title="新建工程"></a>新建工程</h6><p><img src="https://s2.loli.net/2022/04/25/Q8coKGnl9dNxTrM.png" alt="step1.png"></p><p>工程路径不要有中文</p><p>工程项目名和module名保持一致（test仅是测试用）</p><p><img src="https://s2.loli.net/2022/04/25/iNW5dMl78OE6UAQ.png" alt="step2.png"></p><h6 id="新建文件"><a href="#新建文件" class="headerlink" title="新建文件"></a>新建文件</h6><p>这里选择Verilog语言</p><p><img src="https://s2.loli.net/2022/04/25/srHP4TWNV1wAeJ3.png" alt="step3.png"></p><h6 id="编辑源代码"><a href="#编辑源代码" class="headerlink" title="编辑源代码"></a>编辑源代码</h6><p>保存文件名和module名保持一致，例 m5.v</p><p><img src="https://s2.loli.net/2022/04/25/AJXZoPUrw2xVtMz.png" alt="s4.png"></p><h6 id="启动仿真"><a href="#启动仿真" class="headerlink" title="启动仿真"></a>启动仿真</h6><p>包含编译操作，如果有误会报错</p><p><img src="https://s2.loli.net/2022/04/25/dpo2Fg1ce37XMbk.png" alt="s5.png"></p><p>编译成功的界面：</p><p><img src="https://s2.loli.net/2022/04/25/qLIYDemKJl6Bfb5.png" alt="s6.png"></p><h6 id="仿真"><a href="#仿真" class="headerlink" title="仿真"></a>仿真</h6><p>quartus提供了简单的时序仿真分析，具体步骤见下：</p><p>新建文件，选择VWF</p><p><img src="https://s2.loli.net/2022/04/25/H5JgYOufZ6abXew.png" alt="s7VWF.png"></p><p>新建完成后出现如下界面：</p><p><img src="https://s2.loli.net/2022/04/25/wN4EZrb3TjSQ9en.png" alt="s8.png"></p><p>双击左侧空白区域，添加引脚：</p><p><img src="https://s2.loli.net/2022/04/25/JXhdWGb5O1iQkwp.png" alt="s9.png"></p><p>点击Node Finder…</p><p><img src="https://s2.loli.net/2022/04/25/Vs7Fd9CNTjy6b84.png" alt="s10.png"></p><p>点击List</p><p><img src="https://s2.loli.net/2022/04/25/Sgx8uhPd1BEC45s.png" alt="s11.png"></p><p>将引脚全部移动到右侧</p><p><img src="https://s2.loli.net/2022/04/25/ycdpPxkuDTaStXA.png" alt="s10wave.png"></p><p>点击左侧引脚，然后点击上方提供的时序输入，具体就不再介绍</p><p><img src="https://s2.loli.net/2022/04/25/qRxp47uePCDVOQb.png" alt="s11start.png"></p><p>点击开始仿真，出现如下界面：</p><p><img src="https://s2.loli.net/2022/04/25/iVOEKlRqptZGHh5.png" alt="s12.png"></p><p>加载结束后，出现仿真结果</p><p><img src="https://s2.loli.net/2022/04/25/437PGtoMSNc1fDp.png" alt="s13.png"></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>Quartus软件自带的仿真工具使用简单，由于简单单一，往往没有我们需要的输入时序波形，很多情况下并不适合我们的工程仿真使用；</p><p>真正可以做到任何条件的仿真，还得使用Modelsim仿真软件。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;安装步骤&quot;&gt;&lt;a href=&quot;#安装步骤&quot; class=&quot;headerlink&quot; title=&quot;安装步骤&quot;&gt;&lt;/a&gt;安装步骤&lt;/h2&gt;&lt;p&gt;微信搜索quartus相关内容可进行下载；&lt;/p&gt;
-&lt;p&gt;官网下载；&lt;/p&gt;
-&lt;p&gt;具体步骤略&lt;/p&gt;
-&lt;h2 id=&quot;简介</summary>
       
     
     

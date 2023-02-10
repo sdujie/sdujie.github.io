@@ -1,3 +1,4 @@
+http://example.com/2023/02/10/%E6%9C%80%E7%BE%8E%E7%9A%84%E7%83%9F%E7%81%AB/
 http://example.com/artitalk/index.html
 http://example.com/Gallery/index.html
 http://example.com/2022/10/24/Zotero%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD%E5%8E%9F%E5%9C%B0%E5%A4%8D%E6%B4%BB/
@@ -48,6 +49,7 @@ http://example.com/tags/Math/
 http://example.com/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/
 http://example.com/tags/%E7%BE%8E%E5%8C%96/
 http://example.com/tags/Zotero/
+http://example.com/tags/%E7%94%9F%E6%B4%BB/
 http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/
 http://example.com/categories/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/
 http://example.com/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/
